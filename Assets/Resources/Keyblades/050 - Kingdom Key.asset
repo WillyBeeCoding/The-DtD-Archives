@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 050 - Kingdom Key
+  m_EditorClassIdentifier: 
+  keybladeID: 50
+  keybladeName: Kingdom Key
+  keybladeGame: KHDays
+  gameQuote: '"Why did the Keyblade choose me?" - Roxas'
+  desc: 'Organization XIII''s last two members: Roxas and Xion, wield this blade
+    together to perform their assigned task of collecting hearts. It retains this
+    appearence unless you equip a weapon gear.'
+  image: {fileID: 21300000, guid: 2a76b7c929e9e284c9f5f7e143bd8a91, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: 03113434778465d4d88486eecc9d9be4, type: 3}

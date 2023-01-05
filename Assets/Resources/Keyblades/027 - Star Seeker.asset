@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 027 - Star Seeker
+  m_EditorClassIdentifier: 
+  keybladeID: 27
+  keybladeName: Star Seeker
+  keybladeGame: KH2
+  gameQuote: '"Go forth, Sora, Donald, and Goofy. Everyone is waiting." - Yen Sid'
+  desc: This keyblade is obtained in the Mysterious Tower after you unlock Drive
+    Forms. It once belonged to King Mickey when he trained under Yen Sid.
+  image: {fileID: 21300000, guid: ef3eda14b00e811408e81a4047aca8e2, type: 3}
+  strengh: +3
+  magic: +1
+  footage: {fileID: 32900000, guid: e1ae6246a830c4c48b9ec41cded12155, type: 3}

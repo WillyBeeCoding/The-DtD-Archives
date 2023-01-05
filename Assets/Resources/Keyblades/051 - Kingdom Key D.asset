@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 051 - Kingdom Key D
+  m_EditorClassIdentifier: 
+  keybladeID: 51
+  keybladeName: Kingdom Key D
+  keybladeGame: KHDays
+  gameQuote: '"Of course, Riku. I promise." - King Mickey'
+  desc: King Mickey's trusted keyblade of darkness. In Mission Mode this is the King's
+    default weapon, and it can be upgraded a total of three times using weapon gears.
+  image: {fileID: 21300000, guid: 8ad07a4ac757f9945ad0b6cf4a416f67, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: 657f80785f6e5cd49878fd3aa3b51078, type: 3}

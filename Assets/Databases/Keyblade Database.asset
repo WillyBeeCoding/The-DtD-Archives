@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac6da3a82eb398b47806cdea2811d905, type: 3}
+  m_Name: Keyblade Database
+  m_EditorClassIdentifier: 
+  allKeyblades:
+  - {fileID: 11400000, guid: 7f8cb859263aa7243a440d8c9378351e, type: 2}
+  - {fileID: 11400000, guid: 6968177db38b82446b7e7163ad9e6da6, type: 2}
+  - {fileID: 11400000, guid: 5a806cc605b3c7a46a63f6e2ea2cb01f, type: 2}
+  - {fileID: 11400000, guid: b56dd444ec64f2542990a78754469532, type: 2}
+  - {fileID: 11400000, guid: eb33b612cfac95a4ea60fa07c91a74ec, type: 2}
+  - {fileID: 11400000, guid: 86b6e692380c9be4d996fbd07bda3fdb, type: 2}
+  - {fileID: 11400000, guid: 5e98b5b874ed9014989c92a4e5e8bb0f, type: 2}
+  - {fileID: 11400000, guid: 4e1afbb819a8b9047918b4f40b0d31ef, type: 2}
+  - {fileID: 11400000, guid: 38b6630d07994ea4691832ef5b73e727, type: 2}
+  - {fileID: 11400000, guid: 9c2957beb4b9bc24cbe7a817eedeb178, type: 2}
+  - {fileID: 11400000, guid: 7391abeb56d6e104cabf2349e03e6a68, type: 2}
+  - {fileID: 11400000, guid: eb326ac955ed2ec40a8767fbf04784d1, type: 2}
+  - {fileID: 11400000, guid: f676d8579c2d2e946be2c74c1e3bad32, type: 2}
+  - {fileID: 11400000, guid: 86e46e4927ad2fb47ac24e2b7e938371, type: 2}
+  - {fileID: 11400000, guid: d9a55453c7d0c674794ce1773218c2e6, type: 2}
+  - {fileID: 11400000, guid: 0ff7a28033462654e9012a9b52d699c7, type: 2}
+  - {fileID: 11400000, guid: d8eb115bee6fe7947858fe40196d05bc, type: 2}
+  - {fileID: 11400000, guid: a4fccd17e33523c40bc44d28290c58fa, type: 2}
+  - {fileID: 11400000, guid: f16d4a40ef308a04d8a982ddb59d043a, type: 2}
+  - {fileID: 11400000, guid: d2d351b2a329c8e4793e682afabd97ee, type: 2}
+  - {fileID: 11400000, guid: c85b58800c1a36542a2c89c3dd90fc9e, type: 2}

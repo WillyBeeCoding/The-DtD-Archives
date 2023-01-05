@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 007 - Pumpkinhead
+  m_EditorClassIdentifier: 
+  keybladeID: 7
+  keybladeName: Pumpkinhead
+  keybladeGame: KH
+  gameQuote: '"Visit us any time, Sora. Next year''s Halloween will be the scariest
+    ever!" - Jack Skellington'
+  desc: This Keyblade is obtained after sealing the keyhole in Halloween Town and
+    stopping Oogie Boogie. It has a long reach and can deal a string of critical
+    blows.
+  image: {fileID: 21300000, guid: c3994f7f43a1a2240b804a5ca3066844, type: 3}
+  strengh: +7
+  magic: +0
+  footage: {fileID: 32900000, guid: 368d2cb754cb15a48922279f72a609c9, type: 3}

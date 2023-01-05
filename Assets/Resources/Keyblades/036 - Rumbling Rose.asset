@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 036 - Rumbling Rose
+  m_EditorClassIdentifier: 
+  keybladeID: 36
+  keybladeName: Rumbling Rose
+  keybladeGame: KH2
+  gameQuote: '"I''m very grateful to you...for bringing the rose back to me. Thank
+    you." - Beast'
+  desc: This Keyblade is obtained during your second visit to Beast's Castle once
+    you meet back up with him in his chambers and plan to take down Xaldin.
+  image: {fileID: 21300000, guid: 841b733cfb4e1bd4683bb809320e6fee, type: 3}
+  strengh: +5
+  magic: +0
+  footage: {fileID: 32900000, guid: 81c6455cdfd0f4f4eb2bb2651d9a1903, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 045 - Oblivion
+  m_EditorClassIdentifier: 
+  keybladeID: 45
+  keybladeName: Oblivion
+  keybladeGame: KH2
+  gameQuote: '"C''mon, Sora. You''ve got to pull it together." - Riku'
+  desc: This Keyblade is obtained in The World That Never Was after taking down Xigbar,
+    ascending up the fortress, and finally reuniting with Riku and Kairi after being
+    apart for so long.
+  image: {fileID: 21300000, guid: 33e772644e4599b43b295588dfe7e894, type: 3}
+  strengh: +6
+  magic: +2
+  footage: {fileID: 32900000, guid: 3915e9cf7e1bc9c48a2d3477df087db8, type: 3}

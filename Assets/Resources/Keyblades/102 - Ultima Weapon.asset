@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 102 - Ultima Weapon
+  m_EditorClassIdentifier: 
+  keybladeID: 102
+  keybladeName: Ultima Weapon
+  keybladeGame: KHBBS
+  gameQuote: '"They are what I feel, a horde of fledgling emotions under my control."
+    - Vanitas'
+  desc: 'This Keyblade is obtained after beating the final fight of the Mirage Arena:
+    "Villians'' Vendetta." It''s regarded as the most powerful form of Keyblades.'
+  image: {fileID: 21300000, guid: 6973289126782d646a1d85446355da32, type: 3}
+  strengh: +7
+  magic: +6
+  footage: {fileID: 0}

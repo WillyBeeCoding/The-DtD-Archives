@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 043 - Bond of Flame
+  m_EditorClassIdentifier: 
+  keybladeID: 43
+  keybladeName: Bond of Flame
+  keybladeGame: KH2
+  gameQuote: '"I wanted to see Roxas. He...was the only one I liked...He made me
+    feel...like I had a heart." - Axel'
+  desc: This Keyblade is obtained in Betwixt and Between after Axel sacrifices himself
+    for Sora, symbolizing his bond to Roxas and in tandem Sora.
+  image: {fileID: 21300000, guid: 3b554fe44f8d1b74087a0d00b201a804, type: 3}
+  strengh: +4
+  magic: +4
+  footage: {fileID: 32900000, guid: 2ba701b2a3f6e334d992bf453983219d, type: 3}

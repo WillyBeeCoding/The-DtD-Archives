@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 009 - Wishing Star
+  m_EditorClassIdentifier: 
+  keybladeID: 9
+  keybladeName: Wishing Star
+  keybladeGame: KH
+  gameQuote: '"He''s no puppet! Pinocchio is my little boy!"-Geppetto'
+  desc: This keyblade can be found at Geppetto's house in Traverse Town after clearing
+    Monstro. Seemingly crafted by Geppetto himself, it has a short reach but always
+    finishes a combo with a critical blow.
+  image: {fileID: 21300000, guid: 45a4ca5fc2a642f4c8766789e3527bde, type: 3}
+  strengh: +5
+  magic: +0
+  footage: {fileID: 32900000, guid: b10e48cef9b84104c93909501b1f2d9c, type: 3}

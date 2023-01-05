@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 075 - Oblivion
+  m_EditorClassIdentifier: 
+  keybladeID: 75
+  keybladeName: Oblivion
+  keybladeGame: KHDays
+  gameQuote: '"I thought you were stronger than that." - Riku'
+  desc: A keyblade representing Sora's memories of Riku that Roxas dual wields with
+    Oathkeeper, this weapon appears in Mission Mode if you select Riku and pair him
+    with Pandora's Gear.
+  image: {fileID: 21300000, guid: f900482ed313dd744930733c42af07be, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: 4adee5eb015a2c8428258a12c71b62c8, type: 3}

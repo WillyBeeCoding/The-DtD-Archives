@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 025 - Stormfall
+  m_EditorClassIdentifier: 
+  keybladeID: 25
+  keybladeName: Stormfall
+  keybladeGame: KH2
+  gameQuote: '"It has been far too long, ''friend.''" - Xemnas'
+  desc: (Final Mix Only) This mysterious weapon makes an appearance next to a broken
+    suit of armor in the Chamber of Repose. Xemnas entered this chamber at times
+    to converse with the armor in secret.
+  image: {fileID: 21300000, guid: d24803d1b3b043941966f3e6c50bee13, type: 3}
+  strengh: N/A
+  magic: N/A
+  footage: {fileID: 32900000, guid: 9a72b50b782abfe4385f8cbcf4175771, type: 3}

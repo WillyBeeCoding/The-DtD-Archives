@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 077 - Two Become One
+  m_EditorClassIdentifier: 
+  keybladeID: 77
+  keybladeName: Two Become One
+  keybladeGame: KHDays
+  gameQuote: '"No one would miss me." - Roxas'
+  desc: A keyblade representing Roxas and Sora's eventual union, this weapon's Zero
+    Gear is 30000 Heart Points in the shop at Legend Rank. This blade requires two
+    ability units attached.
+  image: {fileID: 21300000, guid: 3385114bee110e74c86f1a7911c949d2, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: 0b77b6c7916874a41b5a2f2351779c62, type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 093 - Sweetstack
+  m_EditorClassIdentifier: 
+  keybladeID: 93
+  keybladeName: Sweetstack
+  keybladeGame: KHBBS
+  gameQuote: '"The Million Dreams Award goes to...Ventus, Aqua, and Terra. All three
+    of you!" - Queen Minnie'
+  desc: This Keyblade is obtained after making all seven Ice Creams in Disney Town.
+    With an extra boost in strength, it ensures every strike is a critical hit.
+  image: {fileID: 21300000, guid: 91386c03e9e4a3146ad0ffc65aa84e49, type: 3}
+  strengh: +6
+  magic: +4
+  footage: {fileID: 0}

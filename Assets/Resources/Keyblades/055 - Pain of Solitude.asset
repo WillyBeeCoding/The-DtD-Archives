@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 055 - Pain of Solitude
+  m_EditorClassIdentifier: 
+  keybladeID: 55
+  keybladeName: Pain of Solitude
+  keybladeGame: KHDays
+  gameQuote: '"Your...friend? Roxas, do you think I could be a friend?" - Xion'
+  desc: This keyblade's Loaded Gear is obtainable from a chest on Mission 11. LG+
+    is in a chest on Mission 16. It boosts your magic to give it more power.
+  image: {fileID: 21300000, guid: bcc574ab6b7750d4f8e8305426cb4217, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: 4261fa542aeb2244c8f65712b5b67fd9, type: 3}

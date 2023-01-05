@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 064 - Total Eclipse
+  m_EditorClassIdentifier: 
+  keybladeID: 64
+  keybladeName: Total Eclipse
+  keybladeGame: KHDays
+  gameQuote: '"Xion, Tell me what happened to her!" - Roxas'
+  desc: This keyblade's Prestige Gear is 3600 Heart Points in the Moogle Shop after
+    making Agent Rank. PG+ is made through item synthesis. It's a weapon with extreme
+    strength.
+  image: {fileID: 21300000, guid: 7ec0eff17ddccbb40abd5e97dfb8f0b3, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: a73dc835af1742748ac06bb3d6a362a9, type: 3}

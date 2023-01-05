@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 090 - Mark of a Hero
+  m_EditorClassIdentifier: 
+  keybladeID: 90
+  keybladeName: Mark of a Hero
+  keybladeGame: KHBBS
+  gameQuote: '"Listen to those cheers, man. You don''t get to decide if you''re a
+    hero or not. They do." - Zack'
+  desc: This Keyblade is obtained after clearing Olympus Coliseum. It gives an extra
+    strength boost, and deals higher damage when you land a critical hit.
+  image: {fileID: 21300000, guid: 8e2332cd667f1ff4bbd98ec1f2858252, type: 3}
+  strengh: +5
+  magic: +1
+  footage: {fileID: 0}

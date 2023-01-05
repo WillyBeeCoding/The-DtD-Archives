@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 021 - Kingdom Key
+  m_EditorClassIdentifier: 
+  keybladeID: 21
+  keybladeName: Kingdom Key
+  keybladeGame: KH2
+  gameQuote: '"A key...blade?" - Roxas'
+  desc: Sora, along with his Nobody counterpart Roxas, wield this familiar blade
+    in efforts to vanquish the Heartless once again and take down a new threat in
+    the form of Organization XIII.
+  image: {fileID: 21300000, guid: 201d96a1d31724348ab94c890db1b1f8, type: 3}
+  strengh: +3
+  magic: +1
+  footage: {fileID: 32900000, guid: 86468f5c3cb41fc4080b057635e64318, type: 3}

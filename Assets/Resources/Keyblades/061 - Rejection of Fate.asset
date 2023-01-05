@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 061 - Rejection of Fate
+  m_EditorClassIdentifier: 
+  keybladeID: 61
+  keybladeName: Rejection of Fate
+  keybladeGame: KHDays
+  gameQuote: '"It''s because of you two and the Keyblade that we''re finally making
+    some progress." - Axel'
+  desc: This keyblade's Ominous Gear is obtainable from a chest on Mission 15. OG+
+    is made through synthesis. It has a wide reach and deals immense damage.
+  image: {fileID: 21300000, guid: 8b9f3aa5ac900b4409143cc2c82af07d, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: f408b716f37a59947909cfe90e21a4e7, type: 3}

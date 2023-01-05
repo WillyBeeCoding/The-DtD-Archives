@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 041 - Decisive Pumpkin
+  m_EditorClassIdentifier: 
+  keybladeID: 41
+  keybladeName: Decisive Pumpkin
+  keybladeGame: KH2
+  gameQuote: '"The nicest present I could ever ask for, Jack, is just to be with
+    you." - Sally'
+  desc: This Keyblade is obtained during your second visit to Halloweentown after
+    you defeat the Experiment and recover all the stolen christmas presents.
+  image: {fileID: 21300000, guid: bbafa1cf6fbf6874287686182e15d2e4, type: 3}
+  strengh: +6
+  magic: +1
+  footage: {fileID: 32900000, guid: 301d6304d37a92349bf15e5e96d3c9b4, type: 3}

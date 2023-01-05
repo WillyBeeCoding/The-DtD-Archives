@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 010 - Spellbinder
+  m_EditorClassIdentifier: 
+  keybladeID: 10
+  keybladeName: Spellbinder
+  keybladeGame: KH
+  gameQuote: '"There, now. Ahem. Your king asked me to train you in the art of magic."
+    - Merlin'
+  desc: This keyblade is given to you by Merlin in Traverse Town after you've obained
+    all seven types of spells. It significantly enhances magic and summon power.
+  image: {fileID: 21300000, guid: 4e30f3eec1d3f1847a6c8265efa397ac, type: 3}
+  strengh: +4
+  magic: +2
+  footage: {fileID: 32900000, guid: 66cfb5f64fa896a4fb3566c10a25b595, type: 3}

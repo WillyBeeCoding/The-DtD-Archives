@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 085 - Star Seeker
+  m_EditorClassIdentifier: 
+  keybladeID: 85
+  keybladeName: Star Seeker
+  keybladeGame: KHBBS
+  gameQuote: '"I''m Mickey. I used to be Yen Sid''s apprentice. I came back to him
+    for some more training." - Mickey'
+  desc: The blade wielded by a younger King Mickey, who ran off from his training
+    to try and stop the Unversed from seeping into the worlds of light.
+  image: {fileID: 21300000, guid: 1d37a13e72746f04d8510754fe6dd9cd, type: 3}
+  strengh: N/A
+  magic: N/A
+  footage: {fileID: 0}

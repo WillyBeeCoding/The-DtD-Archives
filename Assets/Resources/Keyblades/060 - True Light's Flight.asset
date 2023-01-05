@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 060 - True Light's Flight
+  m_EditorClassIdentifier: 
+  keybladeID: 60
+  keybladeName: True Light's Flight
+  keybladeGame: KHDays
+  gameQuote: '"Xion...she''s my friend too." - Roxas'
+  desc: This keyblade's Wild Gear is 1080 Heart Points in the Moogle Shop after making
+    Novice Rank. WG+ is 40 Challenge Sigils in the shop. It has a wide reach and
+    deals heavy damage.
+  image: {fileID: 21300000, guid: 280bf4a4d119fe245af9efbf052153d3, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: bc24351d2936b104dab8abcf5be58cba, type: 3}

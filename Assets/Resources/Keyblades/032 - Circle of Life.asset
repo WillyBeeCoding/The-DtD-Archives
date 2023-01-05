@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 032 - Circle of Life
+  m_EditorClassIdentifier: 
+  keybladeID: 32
+  keybladeName: Circle of Life
+  keybladeGame: KH2
+  gameQuote: '"I''m going back to face my past. I could use your help." - Simba'
+  desc: This Keyblade is obtained during your first visit to the Pride Lands after
+    taking to Simba in the Oasis, newly convinced to take his rightful place as king.
+  image: {fileID: 21300000, guid: 6d2d0dfc84f1fcc4a9c66e51f94a71ba, type: 3}
+  strengh: +4
+  magic: +1
+  footage: {fileID: 32900000, guid: 9779a1ef0a978c74b860083f641d7c0f, type: 3}

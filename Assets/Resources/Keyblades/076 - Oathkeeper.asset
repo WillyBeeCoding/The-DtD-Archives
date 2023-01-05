@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 076 - Oathkeeper
+  m_EditorClassIdentifier: 
+  keybladeID: 76
+  keybladeName: Oathkeeper
+  keybladeGame: KHDays
+  gameQuote: '"Get real. Look which one of us is winning." - Roxas'
+  desc: A keyblade representing Sora's memories of Kairi that Roxas dual wields with
+    Oblivion, this weapon's Zero Gear is 30000 Heart Points in the shop at Legend
+    Rank. This blade requires one ability unit attached.
+  image: {fileID: 21300000, guid: 53a426b3898765947b6c85809dde14f9, type: 3}
+  strengh: 
+  magic: 
+  footage: {fileID: 32900000, guid: cd4c57fa540f5e64fbc4bbe2d9c1455d, type: 3}

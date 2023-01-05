@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 544ebb02f2fbc1c4fb182adf39c0f29d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - KH2 ALL MENU
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 41615984bc09523479439c3ca24d5e12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
