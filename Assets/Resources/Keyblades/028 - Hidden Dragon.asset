@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your first visit to the Land of Dragons
     after opening the keyhole gate and stopping Shan-Yu from kidnapping the Emperor.
   image: {fileID: 21300000, guid: 98eb9c37ba447a143aff79e278848c96, type: 3}
+  stats: {fileID: 21300000, guid: 22e2f7eda62d9a44f8e026aa6eb69615, type: 3}
   strengh: +2
   magic: +2
+  critrate: 
   footage: {fileID: 32900000, guid: c0873e024b3a7244685dfa51e417f74c, type: 3}

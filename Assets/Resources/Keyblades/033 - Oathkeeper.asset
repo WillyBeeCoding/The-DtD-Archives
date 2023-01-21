@@ -21,6 +21,8 @@ MonoBehaviour:
     opening the keyhole gate and discovering that Kairi was taken by Organization
     XIII.
   image: {fileID: 21300000, guid: 6773c3a7f78e3bc4fa484f9be074b9a9, type: 3}
+  stats: {fileID: 21300000, guid: 5d42b89e37901144f9a6e41d5c066f38, type: 3}
   strengh: +3
   magic: +3
+  critrate: 
   footage: {fileID: 32900000, guid: dd4133f3d1c17774e991daa00183b02a, type: 3}

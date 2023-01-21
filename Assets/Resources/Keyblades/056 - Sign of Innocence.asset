@@ -20,6 +20,8 @@ MonoBehaviour:
     making Novice Rank. CG+ is made through item synthesis. It boosts the user's
     magic to give it a lot more power.
   image: {fileID: 21300000, guid: 17bfbd4bbe546aa4d823f4f8b6698d65, type: 3}
+  stats: {fileID: 21300000, guid: 5e37449c4a43d0e40861ea3230da1dfe, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 85f9eb5254be4b4438678151edb8be5e, type: 3}

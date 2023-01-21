@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 141
   keybladeName: Gula's Keyblade
   keybladeGame: KHX
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"You must find the traitor hidden among you, and stop them before it''s
+    too late." - Master of Masters'
+  desc: 'The ancient keyblade belonging to Foreteller Gula: Leader of the Leopardos
+    Union and apprentice to the mysterious Master of Masters. '
   image: {fileID: 21300000, guid: 35bde0d45aa062a4a898ef3fa384835b, type: 3}
+  stats: {fileID: 21300000, guid: d6f04e56102d3d3408a1176a5d8a1fb4, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

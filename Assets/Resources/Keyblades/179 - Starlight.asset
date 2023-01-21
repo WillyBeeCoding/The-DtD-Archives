@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 179
   keybladeName: Starlight
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"There''s more to light than meets the eye. I told you. Some light
+    comes from the past." - Eraqus'
+  desc: This ancient keyblade is obtained after defeating the Demon Tide in the Keyblade
+    Graveyard and calling on the light from the distant past.
   image: {fileID: 21300000, guid: bf75f89054f1fdf42b992d0573817a50, type: 3}
+  stats: {fileID: 21300000, guid: e12b081afdf061c4a88bf0207706690e, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

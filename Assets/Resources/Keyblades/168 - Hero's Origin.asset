@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 168
   keybladeName: Hero's Origin
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Well, you''ve got heart, Sora. Just keep at it and I know you''ll
+    be stronger than ever." - Hercules'
+  desc: This keyblade is obtained after clearing Olympus and putting an end to Hades'
+    plot. It has an emphasis on Strength.
   image: {fileID: 21300000, guid: 44669c0c505588344b4a8320e066ee14, type: 3}
+  stats: {fileID: 21300000, guid: 31731314b74f5dc4aa36c076c59212cf, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This master Keyblade can be synthesized at a Moogle Shop. It raises MP by
     2, and posesses the maximum power and attributes available.
   image: {fileID: 21300000, guid: 5837ea5065959704ab52e63f39faef60, type: 3}
+  stats: {fileID: 21300000, guid: 56ed27e0649b22f4db40a17b61d1b10e, type: 3}
   strengh: +14
   magic: +2
+  critrate: 
   footage: {fileID: 32900000, guid: 639a0384f8231ff49966a05aa8558071, type: 3}

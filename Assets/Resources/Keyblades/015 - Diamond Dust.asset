@@ -20,6 +20,8 @@ MonoBehaviour:
     Gold Match at Olympus Coliseum. It's physically weak in comparison to other blades,
     but it has the best magic and summon power boost.
   image: {fileID: 21300000, guid: 4f987b0e835702b499c045476212e7aa, type: 3}
+  stats: {fileID: 21300000, guid: d84b8d6842dc69c458d14485d6ed8442, type: 3}
   strengh: +3
   magic: +3
+  critrate: 
   footage: {fileID: 32900000, guid: 6549abbdff14f5241b90a3dcc4aa4eb7, type: 3}

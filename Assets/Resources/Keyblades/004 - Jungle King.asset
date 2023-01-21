@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after sealing the keyhole in Deep Jungle and stopping
     Clayton. It has a long reach, but seldom deals critical blows.
   image: {fileID: 21300000, guid: de189ad9e31b351419de09d00712b96f, type: 3}
+  stats: {fileID: 21300000, guid: 4b3b809c47a13ac43b0cff63d5eb04bf, type: 3}
   strengh: +5
   magic: +0
+  critrate: 
   footage: {fileID: 32900000, guid: 6a531b56380313a4297a29d8f9155d58, type: 3}

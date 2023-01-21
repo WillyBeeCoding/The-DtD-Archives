@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: 'This Keyblade is obtained in Atlantica after obtaining the spell Magnera
     and completing the fourth music challenge: ''Ursula''s Revenge'''
   image: {fileID: 21300000, guid: a12a137b211203b4eaddd282f6293a8a, type: 3}
+  stats: {fileID: 21300000, guid: f401e1e3160517c429d0f0e3b5392360, type: 3}
   strengh: +3
   magic: +3
+  critrate: 
   footage: {fileID: 32900000, guid: 0a2076d5c6383ba44bffba5ecb2be2d3, type: 3}

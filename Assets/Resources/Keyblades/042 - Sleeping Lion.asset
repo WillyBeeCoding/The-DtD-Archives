@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obatined during your third visit to Hollow Bastion with
     Leon just before you head back into Space Paranoids to shut down the MCP.
   image: {fileID: 21300000, guid: 937f34ef209189342a789019682d1955, type: 3}
+  stats: {fileID: 21300000, guid: 0e1eac6fd00de9b448f8d2a518aadea9, type: 3}
   strengh: +5
   magic: +3
+  critrate: 
   footage: {fileID: 32900000, guid: bbb1275d0e91ea34ba960cb7058761ca, type: 3}

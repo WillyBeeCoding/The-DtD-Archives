@@ -16,7 +16,9 @@ public class Keyblade : ScriptableObject
     public string gameQuote;
     public string desc;
     public Sprite image;
+    public Sprite stats;
     public string strengh;
     public string magic;
+    public string critrate;
     public VideoClip footage;
 }

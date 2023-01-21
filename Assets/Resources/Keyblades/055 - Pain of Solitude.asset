@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This keyblade's Loaded Gear is obtainable from a chest on Mission 11. LG+
     is in a chest on Mission 16. It boosts your magic to give it more power.
   image: {fileID: 21300000, guid: bcc574ab6b7750d4f8e8305426cb4217, type: 3}
+  stats: {fileID: 21300000, guid: 1aed5018d72b3b64fa72d7bebed88cba, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 4261fa542aeb2244c8f65712b5b67fd9, type: 3}

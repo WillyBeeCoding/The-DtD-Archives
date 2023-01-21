@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Terra-exclusive Keyblade is obtained after defeating Master Eraqus.
     It's got the longest reach and outstanding strength, but inhibits magic.
   image: {fileID: 21300000, guid: dc36c3fc95f293f4cbb36c2f7ed1dfb0, type: 3}
+  stats: {fileID: 21300000, guid: 47eed2dffa6963748bcdde0690a219bb, type: 3}
   strengh: +10
   magic: ' -2'
+  critrate: 
   footage: {fileID: 0}

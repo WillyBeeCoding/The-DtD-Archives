@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: A keyblade representing Riku's ties to the Light and Dark, this weapon appears
     in Mission Mode if you select Riku and pair him with Zero Gear.
   image: {fileID: 21300000, guid: 5cc28ab636a7e134ca1557bc68a3cb91, type: 3}
+  stats: {fileID: 21300000, guid: 9a0574fcdb910984d9b758d07820d4c7, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 0eae1e0f0a284694ea4f505b9f2ae646, type: 3}

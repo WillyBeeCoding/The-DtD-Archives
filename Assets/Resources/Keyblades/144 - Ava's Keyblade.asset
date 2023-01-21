@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 144
   keybladeName: Ava's Keyblade
   keybladeGame: KHX
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"You might just be the only hope of keeping light from expiring." -
+    Master of Masters'
+  desc: 'The ancient keyblade belonging to Foreteller Ava: Leader of the Vulpes Union,
+    founder of the Dandelions, and apprentice to the mysterious Master of Masters.'
   image: {fileID: 21300000, guid: 22f5ac6b1d7f0af41abe66dee4a3a1aa, type: 3}
+  stats: {fileID: 21300000, guid: 6cf588e017c3d4d44ab2f4153e9dad52, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

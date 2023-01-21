@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: King Mickey's trusted keyblade of darkness. In Mission Mode this is the King's
     default weapon, and it can be upgraded a total of three times using weapon gears.
   image: {fileID: 21300000, guid: 8ad07a4ac757f9945ad0b6cf4a416f67, type: 3}
+  stats: {fileID: 21300000, guid: 6d1c9da2db8b546448dbf818e58e1291, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 657f80785f6e5cd49878fd3aa3b51078, type: 3}

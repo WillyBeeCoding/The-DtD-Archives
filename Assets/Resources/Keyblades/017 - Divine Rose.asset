@@ -20,6 +20,8 @@ MonoBehaviour:
     Hollow Bastion. It's super powerful, difficult to deflect, and can deal a string
     of critical blows.
   image: {fileID: 21300000, guid: 2cd126f8bda88db4c8b96fb0b8276d00, type: 3}
+  stats: {fileID: 21300000, guid: a4a3bd08d7eeb4045b3e274ae9d1b808, type: 3}
   strengh: +13
   magic: +0
+  critrate: 
   footage: {fileID: 32900000, guid: bc91fed2f0d562e46bccb9cfa438f472, type: 3}

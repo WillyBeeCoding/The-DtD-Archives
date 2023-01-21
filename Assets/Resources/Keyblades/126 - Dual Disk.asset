@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 126
   keybladeName: Dual Disk
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Sam! It''s time! Take her!" - Kevin Flynn'
+  desc: This keyblade is obtained after clearing The Grid and unlocking the sleeping
+    keyhole within. It provides a high Strength boost and Critical rate.
   image: {fileID: 21300000, guid: 45f2522cc5a7f2a43ad7df514765ac63, type: 3}
+  stats: {fileID: 21300000, guid: 1e07c201cca5b6043877800d7aaf61e7, type: 3}
   strengh: +10
   magic: +7
+  critrate: 
   footage: {fileID: 0}

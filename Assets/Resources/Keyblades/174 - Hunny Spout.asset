@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 174
   keybladeName: Hunny Spout
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Sora, I believe the one I should thank for all that yummy, delicious
+    honey is you." - Winnie the Pooh'
+  desc: This keyblade is obtained after clearing 100 Acre Wood and reminding Pooh
+    that Sora's with him always. It has well-balanced stats.
   image: {fileID: 21300000, guid: cbab1bd7d4dd40645917be17f7026d4f, type: 3}
+  stats: {fileID: 21300000, guid: dd035750bfdc4b64f8fc70dd6054bb61, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

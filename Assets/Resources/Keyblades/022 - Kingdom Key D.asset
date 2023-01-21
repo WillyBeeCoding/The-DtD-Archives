@@ -20,6 +20,8 @@ MonoBehaviour:
     as he sleuths across worlds, while occasionally saving Sora when he needs it
     in the moment. '
   image: {fileID: 21300000, guid: fba580fcbc21315459ac579ab670c5d6, type: 3}
+  stats: {fileID: 21300000, guid: 3666963a63b308f42ac22a466efdb712, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 32900000, guid: de1f61d6c20f6e44f85e7fc22037dae9, type: 3}

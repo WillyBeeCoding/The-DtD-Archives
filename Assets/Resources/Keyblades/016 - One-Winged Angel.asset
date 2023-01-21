@@ -20,6 +20,8 @@ MonoBehaviour:
     Match at Olympus Coliseum. It drops your max MP by two, but sometimes deals EXTREMELY
     powerful critical blows.
   image: {fileID: 21300000, guid: 94e84b344e9968944bc72816ca327b97, type: 3}
+  stats: {fileID: 21300000, guid: 952c6f2e31cb1334ca25adffe2efdb35, type: 3}
   strengh: +8
   magic: ' -2'
+  critrate: 
   footage: {fileID: 32900000, guid: 5b33d9b9c29c0824cb544d7a5729fd5a, type: 3}

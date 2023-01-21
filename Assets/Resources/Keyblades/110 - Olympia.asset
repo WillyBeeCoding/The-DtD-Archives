@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 110
   keybladeName: Olympia
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"If you find yourself in trouble, make sure you''re the one still standing
+    at the end!" - Data-Sora'
+  desc: This familiarly triumphant keyblade is obtained after defeating Hades and
+    the end of the digitized keyhole maze in Olympus Coliseum.
   image: {fileID: 21300000, guid: d823dae8034e9d7439fb37d44d7bc573, type: 3}
+  stats: {fileID: 21300000, guid: 3a03bfcb1c9a15a4e992b3a7cbf7eaa1, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

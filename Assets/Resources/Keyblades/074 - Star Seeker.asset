@@ -20,6 +20,8 @@ MonoBehaviour:
     this weapon appears in Mission Mode if you select King Mickey and pair him with
     Pandora's Gear.
   image: {fileID: 21300000, guid: c8b8d1156a92f0e498b1158b8687551d, type: 3}
+  stats: {fileID: 21300000, guid: 780acaad614c7bd4aab80c0e3ad07aea, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 9d5af6ebc27b1a949bf69c6c0b65db1e, type: 3}

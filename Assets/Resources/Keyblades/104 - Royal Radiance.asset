@@ -20,6 +20,8 @@ MonoBehaviour:
     Darkness" fight in the Mirage Arena. It has the best stats in the game, and hastens
     the Command Gauge as well.
   image: {fileID: 21300000, guid: 146196337f61d724e834a7a7d423a5fb, type: 3}
+  stats: {fileID: 21300000, guid: aadf0e1449125e24996c778cb3262d91, type: 3}
   strengh: +8
   magic: +7
+  critrate: 
   footage: {fileID: 0}

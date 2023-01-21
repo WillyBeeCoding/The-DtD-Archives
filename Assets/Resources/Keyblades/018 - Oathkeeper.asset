@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained by talking to Kairi in Traverse Town after rescuring
     her. It enhances magic/summon power, and can string critical blows.
   image: {fileID: 21300000, guid: 3b032d4ff1f933a4aa75073ff0f5b5bc, type: 3}
+  stats: {fileID: 21300000, guid: 6058b20743a4a0a4983f4b7e2d23ecde, type: 3}
   strengh: +9
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: ee2cada3f4087874b8ba56f23da16a47, type: 3}

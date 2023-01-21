@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 114
   keybladeName: Oathkeeper
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"You pass Sora. Congratulations, you understand hurt. Now, use this
+    to find the truth." - Data-Roxas'
+  desc: This familiarly hopeful keyblade is obtained after defeating Data-Roxas and
+    understanding hurt in the digitized Castle Oblivion.
   image: {fileID: 21300000, guid: 5c4b80ade8db07e4d95c515dc27d938f, type: 3}
+  stats: {fileID: 21300000, guid: 80cac616729e2324aa9e9dce84abe9c7, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

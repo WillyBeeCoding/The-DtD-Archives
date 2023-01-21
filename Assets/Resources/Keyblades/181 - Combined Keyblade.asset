@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 181
   keybladeName: Combined Keyblade
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I made it!" - Sora'
+  desc: 'This combined attack from Sora and Riku makes a brief reappearence in the
+    Realm of Darkness when Sora arrives to help Riku confront Anti-Aqua. '
   image: {fileID: 21300000, guid: aa9ba8325f8bce44e92174a9dbe99db1, type: 3}
+  stats: {fileID: 21300000, guid: 26be2c929e5c28542b8de6301351dd60, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

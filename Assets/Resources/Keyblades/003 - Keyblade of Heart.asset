@@ -20,6 +20,8 @@ MonoBehaviour:
     the darkness within them. This type of blade can only be forged by gathering
     seven hearts of pure light.
   image: {fileID: 21300000, guid: d38c5d2d8922ca94a996fb2517fd5875, type: 3}
+  stats: {fileID: 21300000, guid: c6ca152b8f2787e43a223bc2322ba4a4, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 32900000, guid: f7cce3b22e8843d41a703fd0974baa0c, type: 3}

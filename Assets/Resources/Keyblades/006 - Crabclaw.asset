@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after sealing the keyhole in Atlantica and stopping
     Ursula. It enhances magic and summon power while dealing good physical damage.
   image: {fileID: 21300000, guid: 5fd169208b758a749a4484ca782ae7b3, type: 3}
+  stats: {fileID: 21300000, guid: 4a1d0f3e1c0f8ef469a0e329ec037750, type: 3}
   strengh: +6
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: 981f246de2c3d764da36ef485d739851, type: 3}

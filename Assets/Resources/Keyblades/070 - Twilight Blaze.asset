@@ -20,6 +20,8 @@ MonoBehaviour:
     is made through further synthesis. It boasts superior strength and ground combo
     speed.
   image: {fileID: 21300000, guid: 57aa217ccc84c2743b03f4149cb5c051, type: 3}
+  stats: {fileID: 21300000, guid: fefd0d73ab04cc740bea8a6b911ee2fc, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: b2702f0ed8a0ff64989be514bbe9bc47, type: 3}

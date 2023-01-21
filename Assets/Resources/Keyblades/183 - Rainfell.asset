@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 183
   keybladeName: Rainfell
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I''m not alone this time." - Aqua'
+  desc: In the aftermath of the fated battle at the Keyblade Graveyard, Aqua places
+    Master's Defender on a grave marker for Eraqus and returns to her original keyblade
+    in her search for clues on Sora's wherabouts.
   image: {fileID: 21300000, guid: 34aa6846391150046968b8011b65eb24, type: 3}
+  stats: {fileID: 21300000, guid: f0ef7be3d9cf59e4484eaf3216631da8, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

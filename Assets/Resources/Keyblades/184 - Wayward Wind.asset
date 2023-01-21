@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 184
   keybladeName: Wayward Wind
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Thank you for always keeping me safe, Sora." - Ventus'
+  desc: Ventus brings back his iconic reverse-grip keyblade upon waking in the Land
+    of Departure. He continues to wield this keyblade in the fight against the Real
+    Organization XIII.
   image: {fileID: 21300000, guid: 41c6c19a9f213944c85aa381deebb751, type: 3}
+  stats: {fileID: 21300000, guid: 10e62294dabc9594ead7bd354af6d786, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

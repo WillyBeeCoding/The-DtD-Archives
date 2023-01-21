@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 194 - No Name
+  m_EditorClassIdentifier: 
+  keybladeID: 194
+  keybladeName: No Name
+  keybladeGame: KH3
+  gameQuote: '"I had a role to play. And after all these years, it''s done." - Luxu'
+  desc: The omniscient keyblade of the Master of Masters, wielded by Master Xehanort
+    and witness to all the history that transpired throughout the series.
+  image: {fileID: 21300000, guid: 8951875d6fc1e38408433678717b6763, type: 3}
+  stats: {fileID: 21300000, guid: 38522a8c101b6df4f8492496135a3848, type: 3}
+  strengh: 
+  magic: 
+  critrate: 
+  footage: {fileID: 0}

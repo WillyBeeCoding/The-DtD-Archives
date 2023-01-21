@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: (Final Mix Only) This keyblade is obtained after defeating Roxas in The World
     That Never Was, symbolizing the union between Sora and Roxas.
   image: {fileID: 21300000, guid: f351dd6b244118b46888684191c27078, type: 3}
+  stats: {fileID: 21300000, guid: dc0d69aa9ca77ce47a78143d9e2c0f9b, type: 3}
   strengh: +5
   magic: +4
+  critrate: 
   footage: {fileID: 32900000, guid: 10a09e51bfea7d341a14a72a3d195cb0, type: 3}

@@ -20,6 +20,8 @@ MonoBehaviour:
     on Mission 59 and DG++ is also through synthesis. It lets you string together
     faster, incredibly long ground combos.
   image: {fileID: 21300000, guid: 12c8da3e793bacc45b64e3985f7db22d, type: 3}
+  stats: {fileID: 21300000, guid: c5734cd92dc6be041af971f2e72686fd, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: c72df9c5b2ec27f4c81db5a84fe89429, type: 3}

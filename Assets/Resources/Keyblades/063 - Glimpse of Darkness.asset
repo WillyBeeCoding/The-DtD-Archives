@@ -20,6 +20,8 @@ MonoBehaviour:
     making Rookie Rank. FG+ is made through item synthesis. It's a weapon with much
     higher strength.
   image: {fileID: 21300000, guid: 4008c6b0b4e161446ab0ef96cb936dff, type: 3}
+  stats: {fileID: 21300000, guid: 655ee7d1b5c8c4540a3e12a89de9a678, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 2a73fd0778c67914588aa597a1c9854d, type: 3}

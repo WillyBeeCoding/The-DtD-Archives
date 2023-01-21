@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 113
   keybladeName: Zero/One
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I know where the bugs came from. All of them. It''s your shadow. It''s
+    your Heartless, Sora!" - Data-Riku'
+  desc: This brand new digital keyblade is obtained after defeating Sora's Heartless
+    in Jiminy's Journal, finally eradicating the source of all the bugs.
   image: {fileID: 21300000, guid: 61e4b43238389644fa23ab4ed909335f, type: 3}
+  stats: {fileID: 21300000, guid: d71195c133fa0be4ab6ac75b6f8930f9, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

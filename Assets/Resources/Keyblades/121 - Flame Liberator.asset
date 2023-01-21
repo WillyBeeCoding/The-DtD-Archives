@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 121
   keybladeName: Flame Liberator
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Must be in the snap of the wrist or something." - Lea'
+  desc: Upon waking as a complete person again, Lea travels to the Mysterious Tower
+    in the hopes of wielding a keyblade of his own and joining the guardians of light
+    in the fight against Xehanort.
   image: {fileID: 21300000, guid: 7bbd6bfc98b388f43bd57a0bee025614, type: 3}
+  stats: {fileID: 21300000, guid: 1565e5106a1e9ff4f9280f573653117b, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 0}

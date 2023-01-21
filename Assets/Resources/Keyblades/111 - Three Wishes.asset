@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 111
   keybladeName: Three Wishes
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"My Keyblade''s gone, but I''m still gonna help. I know I can save
+    Riku." - Data-Sora'
+  desc: This familiarly wishful keyblade is obtained after defeating Jafar through
+    the digitized keyhole in Agrabah.
   image: {fileID: 21300000, guid: 252ad9a029d71d2498b2d7becc012a92, type: 3}
+  stats: {fileID: 21300000, guid: 5f6096eef0e08ed49a82607bc0a61bf1, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

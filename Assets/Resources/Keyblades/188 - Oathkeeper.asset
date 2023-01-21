@@ -15,9 +15,14 @@ MonoBehaviour:
   keybladeID: 188
   keybladeName: Oathkeeper
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"There was one last thing I needed in order for me to be whole again..."
+    - Roxas'
+  desc: The brighter half of Roxas' dual wield. This blade can also be obtained by
+    Sora in the ReMind DLC by trading in the 'Proof of Promises' item in the Moogle
+    Shop.
   image: {fileID: 21300000, guid: f42bf6f1180758243bb827880478f2e9, type: 3}
+  stats: {fileID: 21300000, guid: c58250ce7a4f3c143b7a91d494067503, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

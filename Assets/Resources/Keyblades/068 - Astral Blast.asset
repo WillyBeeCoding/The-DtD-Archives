@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This keyblade's Rage Gear is 120 Challenge Sigils in the Moogle Shop. RG+
     is made through further synthesis. It allows longer ground and ariel combos.
   image: {fileID: 21300000, guid: b2a0a9d4f25339446a281082eab0416f, type: 3}
+  stats: {fileID: 21300000, guid: a948900d338741e4a98a263b7a087155, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 2790a50fe671e7d4c8a53604a7db5b8a, type: 3}

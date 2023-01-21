@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 170
   keybladeName: Favorite Deputy
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"That''s okay...because you''ve become part of our hearts. So let us
+    become a part of yours." - Woody'
+  desc: This keyblade is obtained after clearing Toy Box and rescuing all Andy's
+    toys from Galaxy Toys. It has an emphasis on Strength.
   image: {fileID: 21300000, guid: ec7eb66897dea134a94a65716c707a48, type: 3}
+  stats: {fileID: 21300000, guid: 07b67620a405d3c45974859ab0dd072a, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

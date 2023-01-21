@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 143
   keybladeName: Aced's Keyblade
   keybladeGame: KHX
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Allow me to tell you about your role. You''re going to be Ira''s right-hand
+    man." - Master of Masters'
+  desc: 'The ancient keyblade belonging to Foreteller Aced: Leader of the Ursus Union
+    and apprentice to the mysterious Master of Masters.'
   image: {fileID: 21300000, guid: e8ebb3a9ab3321148acdcb7f5346e9ea, type: 3}
+  stats: {fileID: 21300000, guid: a21a622a9d83208458815cd925e52b37, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

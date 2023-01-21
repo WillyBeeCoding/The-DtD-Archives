@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 118
   keybladeName: Kingdom Key
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"But how far could a raft take us?" - Sora'
+  desc: Entering the Mark of Mastery Exam, Sora ventures into the realm of dreams
+    with the same keyblade from his previous journey. It provides a balanced boost
+    in Strength and Magic.
   image: {fileID: 21300000, guid: 4e974c397e495c64db359d32a5ca3c82, type: 3}
+  stats: {fileID: 21300000, guid: 6bd0a7fd694d9cf4cb929d3a453d885b, type: 3}
   strengh: +5
   magic: +4
+  critrate: 
   footage: {fileID: 0}

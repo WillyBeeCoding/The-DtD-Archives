@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This keyblade's Mystery Gear is 60 Mission Crowns in the Moogle Shop. It's
     a weapon that claims to draw forth its wielder's true personality.
   image: {fileID: 21300000, guid: d41a002c7df1ca04ebe40fb5006bbdb2, type: 3}
+  stats: {fileID: 21300000, guid: 8190a76f1d8336a4a904697b28189489, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 3b578da2eb16fdc4cad749ea9c79c9d0, type: 3}

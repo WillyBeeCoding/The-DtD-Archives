@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 142
   keybladeName: Ira's Keyblade
   keybladeGame: KHX
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"If one day I suddenly disappear, I''m countin'' on you to keep the
+    others calm. Okay?" - Master of Masters'
+  desc: 'The ancient keyblade belonging to Foreteller Ira: Leader of the Unicornis
+    Union and apprentice to the mysterious Master of Masters.'
   image: {fileID: 21300000, guid: 871649159e9fbc54087933be2404d7af, type: 3}
+  stats: {fileID: 21300000, guid: f2a56525dd5ea2441836e5404fdc75cc, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

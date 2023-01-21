@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your second major visit to Hollow Bastion
     after the Battle of the 1000 Heartless by speaking to Yuna, Rikku, and Payne.
   image: {fileID: 21300000, guid: 2a6ee76dcc0980a41a50a40d6879d0f6, type: 3}
+  stats: {fileID: 21300000, guid: 99829de428aff4440b0fcefaf68d8c4b, type: 3}
   strengh: +2
   magic: +3
+  critrate: 
   footage: {fileID: 32900000, guid: 9741cc4f12a80b9479a33801c09e88c5, type: 3}

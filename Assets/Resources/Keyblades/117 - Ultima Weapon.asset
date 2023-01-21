@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 117
   keybladeName: Ultima Weapon
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"...and now the door to your next journey is ready to be opened." -
+    King Mickey'
+  desc: 'This familiarly superior keyblade can be bought in Hollow Bastion I: Sector
+    B for 1500000 SP.'
   image: {fileID: 21300000, guid: fe98ff60ba99c6c49a10188d8299f266, type: 3}
+  stats: {fileID: 21300000, guid: 956ff3da812ad144ba54d56e33a8ce31, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

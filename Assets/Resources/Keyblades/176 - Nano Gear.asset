@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 176
   keybladeName: Nano Gear
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"My brother wanted to help people. Now, we try to do the same." - Hiro'
+  desc: This keyblade is obtained after clearing San Fransokyo and bringing the original
+    Baymax back home. It has very well-balanced stats.
   image: {fileID: 21300000, guid: dc4b5a8862dfeb848a2eda3b66d10f91, type: 3}
+  stats: {fileID: 21300000, guid: ce4631b5b1832cc499586d502900bf10, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 186
   keybladeName: Earthshaker
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"You found me, just like you promised." - Terra'
+  desc: Terra reverts back to his regular keyblade when he breaks free of Xehanort's
+    clutches. He continues to wield this keyblade in the fight against the Real Organization
+    XIII.
   image: {fileID: 21300000, guid: 9012b7ac17faa634a94f93a4c2e291a0, type: 3}
+  stats: {fileID: 21300000, guid: 59235431fbf6ba84c928a5495ec28bef, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

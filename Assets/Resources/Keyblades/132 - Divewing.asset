@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 132
   keybladeName: Divewing
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Your abyss awaits." - Young Xehanort'
+  desc: This keyblade is obtained after getting an A rank on every Dive session.
+    It provides an extreme Magic boost and a high Critical rate.
   image: {fileID: 21300000, guid: 6fe6bc3b2d36f764795de85044693ddf, type: 3}
+  stats: {fileID: 21300000, guid: 27588d3b41610d640a420aeb64a3d136, type: 3}
   strengh: +12
   magic: +15
+  critrate: 
   footage: {fileID: 0}

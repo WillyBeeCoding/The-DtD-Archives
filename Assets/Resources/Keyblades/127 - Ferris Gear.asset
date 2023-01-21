@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 127
   keybladeName: Ferris Gear
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"My nose! What''s happened?" - Pinocchio'
+  desc: This keyblade is obtained after clearing Prankster's Paradise as Sora and
+    unlocking the sleeping keyhole within. It has a low Reality Shift rate, but gives
+    a generous Strength and Magic boost.
   image: {fileID: 21300000, guid: 732d117de5b950e4ca1207748dc90a31, type: 3}
+  stats: {fileID: 21300000, guid: 1a41631bc568d4d46b313b75a175c567, type: 3}
   strengh: +8
   magic: +8
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,14 @@ MonoBehaviour:
   keybladeID: 187
   keybladeName: Flame Liberator
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"You kidding? Do you know how popular I am? I got loads of people rootin''
+    for me." - Axel/Lea'
+  desc: The newly renamed Axel continues to use this keyblade under his training
+    with Merlin the wizard, bringing it to the battlefield against the Real Organization
+    XIII.
   image: {fileID: 21300000, guid: 242169d09682ff34e83b11ec725b2349, type: 3}
+  stats: {fileID: 21300000, guid: 0223545514979994cb256c4871b05914, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

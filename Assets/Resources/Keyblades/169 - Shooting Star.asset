@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 169
   keybladeName: Shooting Star
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I was hoping the three of you would do the same, and wish for Roxas."
+    - Sora'
+  desc: This keyblade is obtained after clearing Twilight Town and wishing to free
+    Roxas from Sora's heart. It has an emphasis on Magic.
   image: {fileID: 21300000, guid: 77228f92778b6dc4c9eeb3064677b15c, type: 3}
+  stats: {fileID: 21300000, guid: 3e0196a2c6653764ca965c68ecdf5783, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

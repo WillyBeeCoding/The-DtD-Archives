@@ -20,6 +20,8 @@ MonoBehaviour:
     Novice Rank. TG+ is in a chest on Mission 39. It lets you string together faster
     and much longer ground combos.
   image: {fileID: 21300000, guid: 6441076ec2eb0044abf1a95fc74e0c5a, type: 3}
+  stats: {fileID: 21300000, guid: 08d17a2fdcfcb914b9cbb014a6a8ea80, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 2655cec260527cc4b94c38a1732e8038, type: 3}

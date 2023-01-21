@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: 'This Keyblade is obtained after beating the final fight of the Mirage Arena:
     "Villians'' Vendetta." It''s regarded as the most powerful form of Keyblades.'
   image: {fileID: 21300000, guid: 6973289126782d646a1d85446355da32, type: 3}
+  stats: {fileID: 21300000, guid: 343b8f9ef891c4c4f96b01509955c1e3, type: 3}
   strengh: +7
   magic: +6
+  critrate: 
   footage: {fileID: 0}

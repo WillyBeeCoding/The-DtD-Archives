@@ -20,6 +20,8 @@ MonoBehaviour:
     Shop. CG+ costs 6400 Heart Points in the shop at Master Rank. It offers high
     strength and ground combo speed.
   image: {fileID: 21300000, guid: 4e6ff04ab73cd0440b7f2d2eed810b44, type: 3}
+  stats: {fileID: 21300000, guid: 17a2941e99183874f8e74cf93b7043d9, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 4973c4ceb39f46b46a5dc794367b01e6, type: 3}

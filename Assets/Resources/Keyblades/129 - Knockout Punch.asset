@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 129
   keybladeName: Knockout Punch
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Remember what I said. Be careful." - Joshua'
+  desc: This keyblade is obtained after clearing Traverse Town and unlocking the
+    town's second sleeping keyhole within. It has a low Critical rate, but gives
+    a very high Strength boost and high Reality Shift rate.
   image: {fileID: 21300000, guid: 51774dc2bda46f049869269d12bc35cd, type: 3}
+  stats: {fileID: 21300000, guid: a30a45f1e6591e84cb252033fe77d8ca, type: 3}
   strengh: +12
   magic: +10
+  critrate: 
   footage: {fileID: 0}

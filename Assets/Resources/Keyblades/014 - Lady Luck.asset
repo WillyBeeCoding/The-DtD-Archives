@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained from unlocking the White Trinity Mark in Wonderland.
     It significantly enhances magic and summon power with good physical strength.
   image: {fileID: 21300000, guid: 9934c1443763eda4b9c2a2d205af0ddd, type: 3}
+  stats: {fileID: 21300000, guid: ed15c93a7aafd6943bfbd85172eb1da8, type: 3}
   strengh: +7
   magic: +2
+  critrate: 
   footage: {fileID: 32900000, guid: 5b14c45db349852448e5480252071445, type: 3}

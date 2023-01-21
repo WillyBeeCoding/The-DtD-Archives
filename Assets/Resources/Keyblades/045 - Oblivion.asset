@@ -20,6 +20,8 @@ MonoBehaviour:
     ascending up the fortress, and finally reuniting with Riku and Kairi after being
     apart for so long.
   image: {fileID: 21300000, guid: 33e772644e4599b43b295588dfe7e894, type: 3}
+  stats: {fileID: 21300000, guid: 60273062ff35df04c8622b879b422638, type: 3}
   strengh: +6
   magic: +2
+  critrate: 
   footage: {fileID: 32900000, guid: 3915e9cf7e1bc9c48a2d3477df087db8, type: 3}

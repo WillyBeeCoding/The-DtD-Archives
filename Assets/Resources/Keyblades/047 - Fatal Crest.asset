@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This keyblade is won after clearing the Goddess of the Fates Cup in the Underdrome
     and beating Hades in his own underworld gauntlet.
   image: {fileID: 21300000, guid: 0ef310b6b4a10034195be0d6f5b72b0b, type: 3}
+  stats: {fileID: 21300000, guid: ede5de9b0f9da0d45b3a2c5d5d1d31dd, type: 3}
   strengh: +3
   magic: +5
+  critrate: 
   footage: {fileID: 32900000, guid: c283a2b194887664d9d9c562a7bfe687, type: 3}

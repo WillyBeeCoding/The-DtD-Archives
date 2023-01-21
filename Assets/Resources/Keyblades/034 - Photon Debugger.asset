@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your first visit to Space Paranoids after
     destroying the Hostile Program Heartless and resetting the password to the DTD.
   image: {fileID: 21300000, guid: 25d03e6096f11e746a0904e1ffd270f4, type: 3}
+  stats: {fileID: 21300000, guid: 39c27bb2c39b41e4685cfdf862d8ba11, type: 3}
   strengh: +2
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: f33b90a4d27327243b5288c861ce895f, type: 3}

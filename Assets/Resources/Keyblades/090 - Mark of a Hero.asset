@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after clearing Olympus Coliseum. It gives an extra
     strength boost, and deals higher damage when you land a critical hit.
   image: {fileID: 21300000, guid: 8e2332cd667f1ff4bbd98ec1f2858252, type: 3}
+  stats: {fileID: 21300000, guid: ea50cb427f43525449261fb62a3646c2, type: 3}
   strengh: +5
   magic: +1
+  critrate: 
   footage: {fileID: 0}

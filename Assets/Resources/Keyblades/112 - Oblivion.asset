@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 112
   keybladeName: Oblivion
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Just remember, you''re never alone. When you get hurt, it hurts us
+    too." - King Mickey'
+  desc: This familiarly hurtful keyblade is obtained after defeating the now corrupted
+    Data-Riku in Hollow Bastion.
   image: {fileID: 21300000, guid: 964dce7ade35c294ea23b3bf0b1aa09c, type: 3}
+  stats: {fileID: 21300000, guid: 4d388f9c62e88d947900eb957a09810a, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after clearing Deep Space. It has a long reach
     and provides a balanced boost in Strength and Magic.
   image: {fileID: 21300000, guid: cfaf328c4aa02f44580e9b5a2a8a0f98, type: 3}
+  stats: {fileID: 21300000, guid: 4f0a74d504c6c1c48b515015e579c935, type: 3}
   strengh: +4
   magic: +3
+  critrate: 
   footage: {fileID: 0}

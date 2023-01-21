@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 163
   keybladeName: Way to the Dawn
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Can''t use this keyblade anymore. Might as well leave it here...for
+    the other me." - Riku'
+  desc: Riku brings this blade into the Realm of Darkness while looking for Aqua.
+    After being onslaughted by some powerful Heartless however, it breaks apart.
   image: {fileID: 21300000, guid: d68b886a5466cd649b1f4330e3178357, type: 3}
+  stats: {fileID: 21300000, guid: dd1cc8be7f1797c42882d27c1070ac07, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 178
   keybladeName: Classic Tone
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Mr. McDuck''s hosting an open-air film festival in the courtyard.
+    Cool, huh?" - Olette'
+  desc: This keyblade is obtained after earning a high score in each Classic Kingdom
+    game. It has an extreme emphasis on Magic.
   image: {fileID: 21300000, guid: 33aafe9b57710d0419796b480a2954c3, type: 3}
+  stats: {fileID: 21300000, guid: 4aeafc8eac9eadb47ab6b10ed613725c, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

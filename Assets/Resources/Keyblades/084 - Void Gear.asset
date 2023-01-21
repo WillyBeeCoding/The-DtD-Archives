@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: The blade of Ven's dark counterpart, Vanitas. The alternate version of this
     blade is won by defeating the Vanitas Remnant in the Keyblade Graveyard.
   image: {fileID: 21300000, guid: f4b5ed19052743f49b542f1b5b5fd2ad, type: 3}
+  stats: {fileID: 21300000, guid: b4d09d62cf25461478df554511ba777d, type: 3}
   strengh: +8
   magic: +4
+  critrate: 
   footage: {fileID: 0}

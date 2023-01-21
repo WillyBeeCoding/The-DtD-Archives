@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 164
   keybladeName: Braveheart
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Sora, you don''t believe that. I know you don''t." - Riku'
+  desc: This dimple-key inspired keyblade becomes Riku's new weapon bestowed by Merlin
+    after Way to the Dawn becomes irrevocably damaged.
   image: {fileID: 21300000, guid: 5db94df95b59d894894445572bb8de48, type: 3}
+  stats: {fileID: 21300000, guid: dd1cc8be7f1797c42882d27c1070ac07, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

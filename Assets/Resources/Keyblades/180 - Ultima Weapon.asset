@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 180
   keybladeName: Ultima Weapon
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I just got some super-special goods in, kupo. Have a look, kupo."
+    - Moogle'
+  desc: This master keyblade can be synthesized at a Moogle Shop, once again requiring
+    seven Orichalcum+. It also grants Sora the unique Ultimate Form.
   image: {fileID: 21300000, guid: 9d3ece5a79ff38c42a564a75a88eda11, type: 3}
+  stats: {fileID: 21300000, guid: c8a4ef766ab161a4d8b04a0d6fa0bac3, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

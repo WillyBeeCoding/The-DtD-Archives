@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This keyblade is won after defeating Sephiroth in Radiant Garden and convincing
     Cloud afterwards to meet and face him in a grand battle.
   image: {fileID: 21300000, guid: f377f8482d40ecc45babdc3adbbf67d7, type: 3}
+  stats: {fileID: 21300000, guid: f012a1182c3f5c94d9a271cdc0726653, type: 3}
   strengh: +7
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: b805b716720974a4ca65dc2c111ed978, type: 3}

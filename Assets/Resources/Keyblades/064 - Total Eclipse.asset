@@ -20,6 +20,8 @@ MonoBehaviour:
     making Agent Rank. PG+ is made through item synthesis. It's a weapon with extreme
     strength.
   image: {fileID: 21300000, guid: 7ec0eff17ddccbb40abd5e97dfb8f0b3, type: 3}
+  stats: {fileID: 21300000, guid: 8e2a1443d3cdf1b458ae9fa51ca97843, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: a73dc835af1742748ac06bb3d6a362a9, type: 3}

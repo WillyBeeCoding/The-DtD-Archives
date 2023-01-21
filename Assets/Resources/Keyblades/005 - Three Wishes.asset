@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after sealing the keyhole in Agrabah and freeing
     the Genie. It's a strong weapon that can be difficult to deflect.
   image: {fileID: 21300000, guid: 04fb7d95b0bcc3b42a5420d9e4148b83, type: 3}
+  stats: {fileID: 21300000, guid: f85b8d05a6f0c8e4f8e430490362b7ed, type: 3}
   strengh: +6
   magic: +0
+  critrate: 
   footage: {fileID: 32900000, guid: 2fdf42158455df048a4dd139f4a08cf1, type: 3}

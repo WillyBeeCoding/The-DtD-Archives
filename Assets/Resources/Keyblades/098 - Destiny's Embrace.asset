@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Aqua-exclusive Keyblade is obtained after meeting Kairi in Radiant Garden.
     It makes it easier to land critical hits.
   image: {fileID: 21300000, guid: f43206d03b7c9eb4d912adbba9c31169, type: 3}
+  stats: {fileID: 21300000, guid: bcfb38c3db7dea74695773d4f1d55610, type: 3}
   strengh: +3
   magic: +3
+  critrate: 
   footage: {fileID: 0}

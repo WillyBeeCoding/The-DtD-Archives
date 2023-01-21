@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your first visit to the Pride Lands after
     taking to Simba in the Oasis, newly convinced to take his rightful place as king.
   image: {fileID: 21300000, guid: 6d2d0dfc84f1fcc4a9c66e51f94a71ba, type: 3}
+  stats: {fileID: 21300000, guid: a63769314080d284d8922c53d7bc72b0, type: 3}
   strengh: +4
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: 9779a1ef0a978c74b860083f641d7c0f, type: 3}

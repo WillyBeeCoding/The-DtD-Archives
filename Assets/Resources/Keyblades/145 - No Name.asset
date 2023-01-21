@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 467d45b0b0bc66a4d923bb3514df694d, type: 3}
+  m_Name: 145 - No Name
+  m_EditorClassIdentifier: 
+  keybladeID: 145
+  keybladeName: No Name
+  keybladeGame: KHX
+  gameQuote: '"Well, ''gazing'' or not, that Keyblade does have an eye in it. My
+    eye, to be exact." - Master of Masters'
+  desc: The Master of Master's Keyblade which was handed down to Luxu for the purpose
+    of observing the future. Centuries later, it ends up in Xehanort's hands.
+  image: {fileID: 21300000, guid: 4f3fcd28756918f428e3a2af46a11d36, type: 3}
+  stats: {fileID: 21300000, guid: b5f617b5fec18b047ab6edb98bd18b34, type: 3}
+  strengh: 
+  magic: 
+  critrate: 
+  footage: {fileID: 0}

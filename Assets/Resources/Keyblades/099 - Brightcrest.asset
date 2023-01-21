@@ -20,6 +20,8 @@ MonoBehaviour:
     Episode. It has a long reach, an outstanding magic boost, more chances at critical
     hits, and higher damage on those crits.
   image: {fileID: 21300000, guid: c51784ef3ddca4341a823dcd092a8b6d, type: 3}
+  stats: {fileID: 21300000, guid: 0a4545f148cf9d340a3ff3218fa877d9, type: 3}
   strengh: +4
   magic: +7
+  critrate: 
   footage: {fileID: 0}

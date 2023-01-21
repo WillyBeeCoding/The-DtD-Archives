@@ -20,6 +20,8 @@ MonoBehaviour:
     Monstro. Seemingly crafted by Geppetto himself, it has a short reach but always
     finishes a combo with a critical blow.
   image: {fileID: 21300000, guid: 45a4ca5fc2a642f4c8766789e3527bde, type: 3}
+  stats: {fileID: 21300000, guid: 48143c485434f794fa3aeb521275c974, type: 3}
   strengh: +5
   magic: +0
+  critrate: 
   footage: {fileID: 32900000, guid: b10e48cef9b84104c93909501b1f2d9c, type: 3}

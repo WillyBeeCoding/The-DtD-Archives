@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your time in Disney Castle/Timeless River
     after locking Pete's door and stopping him from manipulating the past.
   image: {fileID: 21300000, guid: 68425c3d783a8a940afd68d16c6d86b0, type: 3}
+  stats: {fileID: 21300000, guid: be37de656bfc76445ab6b240620fba5b, type: 3}
   strengh: +4
   magic: +0
+  critrate: 
   footage: {fileID: 32900000, guid: 430a8ba5961f42f4b8f51ea4e51dc7b2, type: 3}

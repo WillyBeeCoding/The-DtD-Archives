@@ -20,6 +20,8 @@ MonoBehaviour:
     weapon manifested itself as a representation of his newfound balance between
     the light and the dark.
   image: {fileID: 21300000, guid: 7cdc2416d995cb34a8ce068afac89e3e, type: 3}
+  stats: {fileID: 21300000, guid: f802e3701f62568458334273d137817d, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 32900000, guid: c3ac66700041b5147a0cd1a7a9e7d9b5, type: 3}

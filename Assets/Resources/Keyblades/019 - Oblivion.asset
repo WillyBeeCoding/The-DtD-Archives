@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained from a chest within the Grand Hall of Hollow Bastion.
     It posesses colossal power at the cost of reducing your max MP a bit.
   image: {fileID: 21300000, guid: 4ba037f317379ec40829fcbbfcae7775, type: 3}
+  stats: {fileID: 21300000, guid: 90a9bbbb471fcf4429c7debc4f301583, type: 3}
   strengh: +11
   magic: ' -1'
+  critrate: 
   footage: {fileID: 32900000, guid: 988274210f5875d41a868102e02acb9e, type: 3}

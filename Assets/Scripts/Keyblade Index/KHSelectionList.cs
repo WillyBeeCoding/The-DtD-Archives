@@ -32,8 +32,8 @@ public class KHSelectionList : MonoBehaviour, IPointerEnterHandler, IPointerExit
 
     // Public asset components (images, audio, text, etc.)
     public Image keybladeImage;
+    public Image statsImage;
     public TextMeshProUGUI keybladeDesc;
-    public TextMeshProUGUI keybladeStats;
     public VideoPlayer videoPlayer;
     public AudioSource audioSource;
     public List<AudioClip> audioClips;
@@ -170,8 +170,12 @@ public class KHSelectionList : MonoBehaviour, IPointerEnterHandler, IPointerExit
     private void refreshUI(Keyblade keyblade) {
         keybladeImage.sprite = keyblade.image;
         keybladeDesc.text = keyblade.gameQuote + "\n\n" + keyblade.desc;
-        keybladeStats.text = keyblade.strengh + "\n" + keyblade.magic;
-        videoPlayer.clip = keyblade.footage;
+        if (keyblade.footage) {
+            videoPlayer.clip = keyblade.footage;
+        }
+        if (keyblade.stats) {
+            statsImage.sprite = keyblade.stats;
+        }
     }
 
     /// <summary>

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 185
   keybladeName: Ends of the Earth
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"How I''ve waited for this moment." - Lingering Will'
+  desc: The possessed armor formerly wielded by Terra known as Lingering Will makes
+    a reappearence to save the guardians of light in the nick of time, wielding this
+    amplified version of Terra's keyblade.
   image: {fileID: 21300000, guid: af38fa02e651d534bb47666d8693ef34, type: 3}
+  stats: {fileID: 21300000, guid: f61cde14b5b33dc45971c9a69f78dc7d, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

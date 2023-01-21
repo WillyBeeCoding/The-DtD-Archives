@@ -20,6 +20,8 @@ MonoBehaviour:
     suit of armor in the Chamber of Repose. Xemnas entered this chamber at times
     to converse with the armor in secret.
   image: {fileID: 21300000, guid: d24803d1b3b043941966f3e6c50bee13, type: 3}
+  stats: {fileID: 21300000, guid: 74d8fba98084be04987a4d66d1d54537, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 32900000, guid: 9a72b50b782abfe4385f8cbcf4175771, type: 3}

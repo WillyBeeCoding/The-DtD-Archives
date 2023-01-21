@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after clearing "Rumble Racing" in Disney Town.
     It has a long reach and can land critical hits more easily.
   image: {fileID: 21300000, guid: 87fbd09dfb94dcc44ba19ef1c5e373ef, type: 3}
+  stats: {fileID: 21300000, guid: c3b4f7d9dd6642a46a20b18bd4fa94b0, type: 3}
   strengh: +4
   magic: +2
+  critrate: 
   footage: {fileID: 0}

@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: The default weapon for Terra, the Wayfinder trio's strongest. What it lacks
     in reach it makes up for with a slight boost in strength.
   image: {fileID: 21300000, guid: 0816dd610fdcfd5418edb24827dc6dd9, type: 3}
+  stats: {fileID: 21300000, guid: 5bcadcdfa4f644d4bad6f0a2da48c4fb, type: 3}
   strengh: +3
   magic: +1
+  critrate: 
   footage: {fileID: 0}

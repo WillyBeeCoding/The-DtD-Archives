@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 106
   keybladeName: Kingdom Key
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Uh... Use my WHAT? How did...?" - Data-Sora'
+  desc: A digitized version of the keyblade for a digitized Sora, this weapon helped
+    Data-Sora purge Jiminy's Journal of bugs in the form of heartless.
   image: {fileID: 21300000, guid: 7d161729bd32bd246a1ed671f2947f0f, type: 3}
+  stats: {fileID: 21300000, guid: d427ee6b027dc974ca7e5028d90d7afb, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

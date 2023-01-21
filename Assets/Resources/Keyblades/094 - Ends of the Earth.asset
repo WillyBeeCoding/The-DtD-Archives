@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Terra-exclusive Keyblade is obtained after meeting Riku on Destiny Islands.
     It's well balanced and gives an extra boost to all stats.
   image: {fileID: 21300000, guid: d9ca76aa2b85a8246b1edeb0fcf5d14e, type: 3}
+  stats: {fileID: 21300000, guid: ef00687647ebd834c8b3db1addac895d, type: 3}
   strengh: +5
   magic: +3
+  critrate: 
   footage: {fileID: 0}

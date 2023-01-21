@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 146
   keybladeName: Master's Defender
   keybladeGame: KHX
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Ephemer gave me this chance to keep hope and light alive, and now
+    I''m passing it on to you." - Brain'
+  desc: A keyblade that's stood as a symbol of light the long line of keyblade wielders
+    tracing all the way back to the creation of the Dandelions.
   image: {fileID: 21300000, guid: 41437dc6902023c429c2ffec9de2b9cf, type: 3}
+  stats: {fileID: 21300000, guid: 4ce01e6728f5b294a850ebe43664b7fd, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

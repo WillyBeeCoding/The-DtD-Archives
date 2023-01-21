@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: 'This Keyblade is obtained after recompleting all of the Hundred Acre Wood
     and finishing the book''s final minigame: ''The Exposition'''
   image: {fileID: 21300000, guid: 391a7227fac353f46bdfa0717f908864, type: 3}
+  stats: {fileID: 21300000, guid: ca4735148310172419430165bea40e46, type: 3}
   strengh: +0
   magic: +4
+  critrate: 
   footage: {fileID: 32900000, guid: c4f9107b2b374b746a6bee046061f035, type: 3}

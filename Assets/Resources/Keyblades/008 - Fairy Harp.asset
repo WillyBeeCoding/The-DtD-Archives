@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after sealing the keyhole in Neverland and stopping
     Captain Hook. It enhances magic/summon power and sometimes deals critical blows.
   image: {fileID: 21300000, guid: 0d0356beac1fc4e438bc57de526e27fd, type: 3}
+  stats: {fileID: 21300000, guid: 1a607cda9ba7a7740b138224a5d7b01c, type: 3}
   strengh: +8
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: 74bcf6a06a2675f448e45e02ed19535d, type: 3}

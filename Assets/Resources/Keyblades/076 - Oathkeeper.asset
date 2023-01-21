@@ -20,6 +20,8 @@ MonoBehaviour:
     Oblivion, this weapon's Zero Gear is 30000 Heart Points in the shop at Legend
     Rank. This blade requires one ability unit attached.
   image: {fileID: 21300000, guid: 53a426b3898765947b6c85809dde14f9, type: 3}
+  stats: {fileID: 21300000, guid: 82cd1ad91b6dc9e428a9496f918bcb96, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: cd4c57fa540f5e64fbc4bbe2d9c1455d, type: 3}

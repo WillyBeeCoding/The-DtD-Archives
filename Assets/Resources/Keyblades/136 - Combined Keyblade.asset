@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 136
   keybladeName: Combined Keyblade
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I heard him call my name. He needs me." - Riku'
+  desc: This two-sided weapon appears as a part of the Reality Shift commands "Nightmare's
+    End" and "Mirage Split". When the two halves are linked together, they can deal
+    a series of ravenous blows.
   image: {fileID: 21300000, guid: c821aecc09c060a419e76b3de80546e5, type: 3}
+  stats: {fileID: 21300000, guid: c44e084f0eee62c40a6a9666c751ad8b, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 0}

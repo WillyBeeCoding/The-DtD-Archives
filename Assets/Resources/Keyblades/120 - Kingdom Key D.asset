@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 120
   keybladeName: Kingdom Key D
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Follow the hearts, and you''ll find the way. That''s something Master
+    Aqua told me once" - King Mickey'
+  desc: Mickey uses this blade when he dives into the World That Never Was and attempts
+    to rescue Sora and Riku from Xehanort's clutches.
   image: {fileID: 21300000, guid: 9f550e373af164a4584f6240c3bd19fd, type: 3}
+  stats: {fileID: 21300000, guid: d84edb9414c88f649a060507c4101599, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 0}

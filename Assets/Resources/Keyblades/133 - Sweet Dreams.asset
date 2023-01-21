@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 133
   keybladeName: Sweet Dreams
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Pleasant dreams, kiddo." - Xigbar'
+  desc: This keyblade is obtained after beating the 5th "Orion" match of the Secret
+    Cup at the Flick Rush Arena. It has a long reach, gives a even higher Strength
+    boost, and gives a high Critical rate.
   image: {fileID: 21300000, guid: 6ef09fd9514dd6b40b7bb2e27cab57a6, type: 3}
+  stats: {fileID: 21300000, guid: 19572c5cf3f798143b879f465e17f469, type: 3}
   strengh: +14
   magic: +12
+  critrate: 
   footage: {fileID: 0}

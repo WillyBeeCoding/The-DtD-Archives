@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 165
   keybladeName: Kingdom Key D
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I don''t think we''re equipped to dive any deeper than we already
+    are." - King Mickey'
+  desc: Mickey brings this blade into the Realm of Darkness while looking for Aqua.
+    After being onslaughted by some powerful Heartless however, it becomes damaged.
   image: {fileID: 21300000, guid: 1b1ea094c6f875849a3cab37baaff6cf, type: 3}
+  stats: {fileID: 21300000, guid: e27512e656bc05c4dab8797e209960d3, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

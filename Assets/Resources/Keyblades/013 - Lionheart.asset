@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This keyblade is won after defeating Cloud and Leon in the Hades Cup at the
     Olympus Coliseum. It enhances magic and summon power with great physical strength.
   image: {fileID: 21300000, guid: 43cf414ee70445d419e326e164026296, type: 3}
+  stats: {fileID: 21300000, guid: e8101945f8b6069478d97b3e1008e97e, type: 3}
   strengh: +10
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: 65d00d3f6eae3af4e9b4a62ee35a7ce4, type: 3}

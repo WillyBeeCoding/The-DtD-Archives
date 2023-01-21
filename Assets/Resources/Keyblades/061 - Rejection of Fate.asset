@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This keyblade's Ominous Gear is obtainable from a chest on Mission 15. OG+
     is made through synthesis. It has a wide reach and deals immense damage.
   image: {fileID: 21300000, guid: 8b9f3aa5ac900b4409143cc2c82af07d, type: 3}
+  stats: {fileID: 21300000, guid: ea789661ec53a8e42a92af3bb0e1126f, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: f408b716f37a59947909cfe90e21a4e7, type: 3}

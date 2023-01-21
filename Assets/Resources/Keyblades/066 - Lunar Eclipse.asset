@@ -20,6 +20,8 @@ MonoBehaviour:
     is made through further synthesis. It provides versatility by greatly boosting
     strength and magic.
   image: {fileID: 21300000, guid: cb6c963c19333984fb4c5151370d43d4, type: 3}
+  stats: {fileID: 21300000, guid: 4f63ea4d469676146b2690bc904c4149, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 357613c3a5d0aa341ae76a78ead7dcc2, type: 3}

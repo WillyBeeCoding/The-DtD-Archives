@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 171
   keybladeName: Ever After
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I can finally be with my real family! I couldn''t have done it without
+    your help." - Rapunzel'
+  desc: This keyblade is obtained after clearing Kingdom of Corona and saving Rapunzel
+    from Mother Gothel's clutches. It has more emphasis on Magic.
   image: {fileID: 21300000, guid: c10f6fbd322d4de46a49eb4802be8921, type: 3}
+  stats: {fileID: 21300000, guid: d17301de7da9aff418d6a2677bf3b1ac, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

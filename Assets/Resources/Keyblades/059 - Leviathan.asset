@@ -20,6 +20,8 @@ MonoBehaviour:
     making Rookie Rank. NG+ is made through synthesis. It performs extremely well
     in midair.
   image: {fileID: 21300000, guid: 51ae86e4d8f6ab448886846dc173de06, type: 3}
+  stats: {fileID: 21300000, guid: 05335be5e9dafd04fabf434850267f6b, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: cd32fa27c9a0d564190b423218161b13, type: 3}

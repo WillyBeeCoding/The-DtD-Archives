@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 166
   keybladeName: Star Cluster
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"No matter how far...the light will connect our hearts!" - King Mickey'
+  desc: This starry sky inspired keyblade becomes Mickey's new weapon bestowed by
+    Merlin after Kingdom Key D becomes irrevocably damaged.
   image: {fileID: 21300000, guid: ac7bd216d10b67a488db8704b5f2d432, type: 3}
+  stats: {fileID: 21300000, guid: e27512e656bc05c4dab8797e209960d3, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

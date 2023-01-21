@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after making all seven Ice Creams in Disney Town.
     With an extra boost in strength, it ensures every strike is a critical hit.
   image: {fileID: 21300000, guid: 91386c03e9e4a3146ad0ffc65aa84e49, type: 3}
+  stats: {fileID: 21300000, guid: 2b3e876288439874aa5c9ea9bdf96e61, type: 3}
   strengh: +6
   magic: +4
+  critrate: 
   footage: {fileID: 0}

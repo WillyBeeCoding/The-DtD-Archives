@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after clearing Dwarf Woodlands. It makes up for
     its poor reach with a balanced boost in Strength and Magic.
   image: {fileID: 21300000, guid: 90326def7a5948f45873b1d30ef33378, type: 3}
+  stats: {fileID: 21300000, guid: 1134c986f5ccda34f80b4102c9a1f040, type: 3}
   strengh: +3
   magic: +2
+  critrate: 
   footage: {fileID: 0}

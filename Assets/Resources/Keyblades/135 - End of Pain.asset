@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 135
   keybladeName: End of Pain
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"You can go home now." - Ansem the Wise'
+  desc: This keyblade is obtained after clearing all the Special Portals. It drastically
+    lowers the Reality Shift rate, but offers an very extreme Magic boost and a high
+    Critical rate too.
   image: {fileID: 21300000, guid: cdbd94881d3d9a1438189598a3e01318, type: 3}
+  stats: {fileID: 21300000, guid: a861a05dcbe5a3449b2bfba9287fa85a, type: 3}
   strengh: +14
   magic: +16
+  critrate: 
   footage: {fileID: 0}

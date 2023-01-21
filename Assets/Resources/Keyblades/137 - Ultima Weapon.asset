@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 137
   keybladeName: Ultima Weapon
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Really? I''m a Keyblade Master?" - Riku'
+  desc: This superior keyblade is obtained after defeating the secret "Julius" boss
+    in Traverse Town. It offers grand boosts to every stat in a perfectly balanced
+    way.
   image: {fileID: 21300000, guid: fe6cbc39180be8240bc3d450f7c41f38, type: 3}
+  stats: {fileID: 21300000, guid: 2230fe49281fe434dbe773aab8c6d92c, type: 3}
   strengh: +16
   magic: +16
+  critrate: 
   footage: {fileID: 0}

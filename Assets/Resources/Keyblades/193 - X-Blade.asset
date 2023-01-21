@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 193
   keybladeName: X-Blade
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Kingdom Hearts! I call upon your true form. Open now and show me the
+    World to come." - Master Xehanort'
+  desc: The fated key to opening the heart of all worlds, summoned by Xehanort after
+    having the seven guardians of light and thirteen seekers of darkness clash.
   image: {fileID: 21300000, guid: 3e70eab5da549bc469f7db92e575cceb, type: 3}
+  stats: {fileID: 21300000, guid: 9d7f4958c7f46e04486e408bc1346e8d, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

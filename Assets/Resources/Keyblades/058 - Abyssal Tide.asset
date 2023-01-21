@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This keyblade's Lift Gear is 1080 Heart Points in the Moogle Shop after making
     Novice Rank. LG+ is 10 Mission Crowns in the shop. It performs very well in midair.
   image: {fileID: 21300000, guid: cef5131d4a1aad346bb64ef719f9cb43, type: 3}
+  stats: {fileID: 21300000, guid: 37da3b77440170f4198c087512a6aa47, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 1a4582e4347dd494393ffc79e6f225fa, type: 3}

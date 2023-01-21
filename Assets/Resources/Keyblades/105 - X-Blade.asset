@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: The Keyblade from which all others are modeled after. The wielder of this
     blade can summon the true Kingdom Hearts along with it.
   image: {fileID: 21300000, guid: 207946455863a124b8aeca7dfdb8674c, type: 3}
+  stats: {fileID: 21300000, guid: b6d661f0e9e280843afe7ec51d56de26, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 162
   keybladeName: Kingdom Key
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"May my heart be my guiding key..." - Sora'
+  desc: After losing most of his power during his Mark of Mastery exam, Sora with
+    this iconic keyblade in hand must channel the power of waking and face off against
+    Xehanort and the Real Organization XIII.
   image: {fileID: 21300000, guid: 7a17e67c791fb7b45a246b08babf74d8, type: 3}
+  stats: {fileID: 21300000, guid: f96c497253b203847b4a2a9930411e41, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -20,6 +20,8 @@ MonoBehaviour:
     collecting every Secret Report. PG+ is made through further synthesis. It's a
     formidable weapong with exceptional capabilities.
   image: {fileID: 21300000, guid: c2e9e9af6d01f6348a7e3497242f3142, type: 3}
+  stats: {fileID: 21300000, guid: 4733c72c8ed9c994da5beac57d50c234, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 8d1cd956a49e2874e9a2a7eafa98511d, type: 3}

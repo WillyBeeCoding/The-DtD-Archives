@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 116
   keybladeName: Lionheart
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"It''s possible that all your journeys so far have been preparing you
+    for this great new task that''s waiting for you..." - King Mickey'
+  desc: 'This fantastically gallant keyblade can be bought in Traverse Town: Sector
+    F for 348000 SP.'
   image: {fileID: 21300000, guid: 09c38f288f74d9942bd8a39a744127c2, type: 3}
+  stats: {fileID: 21300000, guid: b7d9068d71b1bd94db5eea853510fa28, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

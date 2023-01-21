@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 173
   keybladeName: Crystal Snow
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"An act of true love will thaw a frozen heart." - Olaf'
+  desc: This keyblade is obtained after clearing Arendelle and restoring it back
+    to its normal state. It has more emphasis on Magic.
   image: {fileID: 21300000, guid: 5a9a031963e5df146aeaf4bf4ae40baf, type: 3}
+  stats: {fileID: 21300000, guid: e712439d471e8cd4899113a523382f37, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

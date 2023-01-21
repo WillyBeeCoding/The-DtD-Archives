@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 175
   keybladeName: Wheel of Fate
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"It only takes a moment to connect with your mates...with your hearties."
+    - Jack Sparrow'
+  desc: This keyblade is obtained after clearing the Caribbean and defeating the
+    infamous Davy Jones. It has a great emphasis on Strength.
   image: {fileID: 21300000, guid: ba48a94b129dfb94d80fbd6261224736, type: 3}
+  stats: {fileID: 21300000, guid: 4277259e1cff42e4ba2f15272cbb806c, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

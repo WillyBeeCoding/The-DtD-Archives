@@ -20,6 +20,8 @@ MonoBehaviour:
     Keyblade called out to Sora after the destruction of Destiny Islands, it''s hardly
     ever left his side as his signature weapon. '
   image: {fileID: 21300000, guid: ae44ef2938d7f0c41b96251a62ab75cf, type: 3}
-  strengh: +3
-  magic: +0
+  stats: {fileID: 21300000, guid: f5ba38458c2d7474e83116c9a65d9549, type: 3}
+  strengh: 3
+  magic: 0
+  critrate: 20
   footage: {fileID: 32900000, guid: 721bc8c5c4f46ec439daa3e3c7ef0979, type: 3}

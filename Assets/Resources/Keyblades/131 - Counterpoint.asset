@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 131
   keybladeName: Counterpoint
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I hope I can be part of the team someday." - Mickey'
+  desc: This keyblade is obtained after clearing Symphony of Sorcery and unlocking
+    the sleeping keyhole within. It has a long reach, gives a even higher Magic boost,
+    and gives a high Reality Shift rate.
   image: {fileID: 21300000, guid: 85881d815bf3a904bb95d7866400e689, type: 3}
+  stats: {fileID: 21300000, guid: 61ae6cea3d0cad142a1b44a7c36d0f64, type: 3}
   strengh: +12
   magic: +14
+  critrate: 
   footage: {fileID: 0}

@@ -21,6 +21,8 @@ MonoBehaviour:
     Hercules Cups at Olympus Coliseum. It''s hard to deflect and deals mighty critical
     blows. '
   image: {fileID: 21300000, guid: 3346090c9b9f33343b0f4cbb6173f515, type: 3}
+  stats: {fileID: 21300000, guid: 370e7607a709a584c8a62b41001614e7, type: 3}
   strengh: +10
   magic: +0
+  critrate: 
   footage: {fileID: 32900000, guid: d643430fa52b625499183a42de539c56, type: 3}

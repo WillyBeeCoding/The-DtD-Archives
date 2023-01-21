@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: (Final Mix Only) A weapon belonging to a hero long lost, this keyblade is
     in the hands of a suit of armor that challenges Sora in a barren desert.
   image: {fileID: 21300000, guid: e49c598ed4dfdf44695af8b245067c96, type: 3}
+  stats: {fileID: 21300000, guid: 83dea3dc766c99747bf4c8f3ec37f43e, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 32900000, guid: 384e3d10557f2bf4185a93c45897f0ce, type: 3}

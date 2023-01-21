@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 167
   keybladeName: Promo Keyblades
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"But first, you must regain all the strength you have lost." - Yen
+    Sid'
+  desc: This series of keyblades are exclusive depending on the system you purchased
+    the game on. They all have the same balanced stats.
   image: {fileID: 21300000, guid: c0814dac2ce9e0a45b84b3791c760b96, type: 3}
+  stats: {fileID: 21300000, guid: 63fa16c82422c0d4e93a238be6fa603d, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: The default weapon for Aqua, the Wayfinder trio's wisest. What it lacks in
     reach it makes up for with a balanced boost to strenght and magic.
   image: {fileID: 21300000, guid: d4b869c493c400c4caf3e04798ed3ade, type: 3}
+  stats: {fileID: 21300000, guid: c205e52645ef4d74aa17172888a19563, type: 3}
   strengh: +2
   magic: +2
+  critrate: 
   footage: {fileID: 0}

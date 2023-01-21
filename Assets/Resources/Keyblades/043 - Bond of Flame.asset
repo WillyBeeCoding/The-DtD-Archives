@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained in Betwixt and Between after Axel sacrifices himself
     for Sora, symbolizing his bond to Roxas and in tandem Sora.
   image: {fileID: 21300000, guid: 3b554fe44f8d1b74087a0d00b201a804, type: 3}
+  stats: {fileID: 21300000, guid: e6aac52edda4aeb41ab0d1f5710e2579, type: 3}
   strengh: +4
   magic: +4
+  critrate: 
   footage: {fileID: 32900000, guid: 2ba701b2a3f6e334d992bf453983219d, type: 3}

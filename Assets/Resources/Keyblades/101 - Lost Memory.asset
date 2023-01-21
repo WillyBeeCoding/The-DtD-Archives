@@ -20,6 +20,8 @@ MonoBehaviour:
     Islands. It has a long reach and more chances at critical hits, along with higher
     damage on those crits.
   image: {fileID: 21300000, guid: fc401c6b6394bf24598f7bd3c404d60a, type: 3}
+  stats: {fileID: 21300000, guid: c71f9fb7a73a4364995d64d124c44295, type: 3}
   strengh: +6
   magic: +5
+  critrate: 
   footage: {fileID: 0}

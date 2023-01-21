@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This keyblade's Valor Gear is obtainable from a chest on Mission 29. VG+
     is 2 Mission Crowns in the shop. It's a weapon with higher strength.
   image: {fileID: 21300000, guid: 1fa6c2afe678b8443af3fc5f691e6fe3, type: 3}
+  stats: {fileID: 21300000, guid: 57209909b7d32c7439e6182968a977e9, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: a8afb5a8e1764144ea160b387fe676dd, type: 3}

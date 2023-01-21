@@ -18,6 +18,8 @@ MonoBehaviour:
   gameQuote: TBD
   desc: TBD
   image: {fileID: 21300000, guid: 294ecc9a799a4bc4f889016d92c127c5, type: 3}
+  stats: {fileID: 21300000, guid: e8fd4a7e8d717ee42870f8cea9ae99e0, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

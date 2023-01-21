@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 134
   keybladeName: Unbound
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"They''re what...make me strong." - Sora'
+  desc: This formidable keyblade is obtained after clearing all the Secret Portals.
+    It offers majestic boosts to all stats, especially Strength and Reality Shift
+    rate.
   image: {fileID: 21300000, guid: 2bbaea3df9ae5b54c9c7dafab426b234, type: 3}
+  stats: {fileID: 21300000, guid: 78948da03230027438cf02dd4b368461, type: 3}
   strengh: +18
   magic: +14
+  critrate: 
   footage: {fileID: 0}

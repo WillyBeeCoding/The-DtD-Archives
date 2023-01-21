@@ -20,6 +20,8 @@ MonoBehaviour:
     challenge of the Mushroom XIII in Radiant Garden (a.k.a. Hollow Bastion) which
     can only be obtained post-game.
   image: {fileID: 21300000, guid: ad6336400ef7ee94286b5576820296a1, type: 3}
+  stats: {fileID: 21300000, guid: 0db800a3fc1e7b0479246a2a8e50b73f, type: 3}
   strengh: +5
   magic: +7
+  critrate: 
   footage: {fileID: 32900000, guid: afe1736ac8d811b4b8ed58737bc55bd2, type: 3}

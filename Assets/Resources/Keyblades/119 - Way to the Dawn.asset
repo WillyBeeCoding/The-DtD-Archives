@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 119
   keybladeName: Way to the Dawn
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"If we have to, we''ll think of something else." - Riku'
+  desc: Entering the Mark of Mastery Exam, Riku ventures into the realm of dreams
+    with the same keyblade from his previous journey. It provides a balanced boost
+    in Strength and Magic.
   image: {fileID: 21300000, guid: cfd0ee83aef53054db289536057e5b8f, type: 3}
+  stats: {fileID: 21300000, guid: 574905a9a344fe14bbbbc05ad979d99f, type: 3}
   strengh: +5
   magic: +4
+  critrate: 
   footage: {fileID: 0}

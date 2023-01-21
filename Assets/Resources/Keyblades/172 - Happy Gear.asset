@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 172
   keybladeName: Happy Gear
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"We never woulda managed to get Boo this far if you hadn''t come along
+    to help." - Sully'
+  desc: This keyblade is obtained after clearing Monstropolis and getting Boo back
+    home safe and sound. It has more emphasis on Strength.
   image: {fileID: 21300000, guid: f00f756600477014f89f37f1a7109503, type: 3}
+  stats: {fileID: 21300000, guid: 0137ba80101a83646853300c73ff8308, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 108
   keybladeName: Wishing Star
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Wait, so that thing I clobbered inside the Keyhole... That was a ''bug''?"
+    - Data-Sora'
+  desc: This familiarly crafted keyblade is obtained after defeating the Guard Armor
+    through the digitized keyhole in Traverse Town.
   image: {fileID: 21300000, guid: df4d9dd66e62bad4bac8b01e2e3b4c62, type: 3}
+  stats: {fileID: 21300000, guid: 8b235fc91bb7ffa4eb348537e26a8081, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 107
   keybladeName: Star Seeker
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I''m Mickey. Let''s just say I know you, Sora. And Sora knows me.
+    We''re good friends!" - King Mickey'
+  desc: While debugging the journal, Mickey switches back to his former blade and
+    wields it in several moments throughout Data-Sora's journey.
   image: {fileID: 21300000, guid: cc26aa095afcc264d9149afc2fd9cb38, type: 3}
+  stats: {fileID: 21300000, guid: e48f23020973d2c44b41d9cbd291959a, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

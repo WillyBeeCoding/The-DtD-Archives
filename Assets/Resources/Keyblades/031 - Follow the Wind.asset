@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your first visit to Port Royal after opening
     the keyhole gate and besting Barbossa along with his undead pirate crew.
   image: {fileID: 21300000, guid: 50350a0fd907865408c925c631c029de, type: 3}
+  stats: {fileID: 21300000, guid: 94111c02502495d4ea74b0946f1ec633, type: 3}
   strengh: +3
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: 6db1622a76efefb4893d927cf16b5a1b, type: 3}

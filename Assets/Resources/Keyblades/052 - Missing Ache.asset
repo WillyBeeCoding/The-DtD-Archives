@@ -20,6 +20,8 @@ MonoBehaviour:
     found clearing Mission 13. It lets you string together faster, longer ground
     combos.
   image: {fileID: 21300000, guid: b123b656df8fb0c4cb243ce5c294e1fe, type: 3}
+  stats: {fileID: 21300000, guid: 760488a8d39914f47adcd2cdee7c0b52, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 857bcf78c84ed734db0a01859c93ea28, type: 3}

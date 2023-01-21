@@ -21,6 +21,8 @@ MonoBehaviour:
     weapon appears in Mission Mode if you select Sora and pair him with Pandora's
     Gear.
   image: {fileID: 21300000, guid: f75ce1d8252411440acbc26dc431d714, type: 3}
+  stats: {fileID: 21300000, guid: 5bbcad1280ae41d4aa4db5add547a60e, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 1176194c182d7d54ab4763c9ee92b5c1, type: 3}

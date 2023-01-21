@@ -20,6 +20,8 @@ MonoBehaviour:
     is 70 Challenge Sigils in the shop and PG++ is made through item synthesis. It
     boosts the user's magic to give it incredible power.
   image: {fileID: 21300000, guid: 320f43843286f47488dc2b0f783d6497, type: 3}
+  stats: {fileID: 21300000, guid: 00e085bda2a0c47439854d09c126f79c, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: f26913d680e262f4d86813c6ab3beb0a, type: 3}

@@ -20,6 +20,8 @@ MonoBehaviour:
     together to perform their assigned task of collecting hearts. It retains this
     appearence unless you equip a weapon gear.'
   image: {fileID: 21300000, guid: 2a76b7c929e9e284c9f5f7e143bd8a91, type: 3}
+  stats: {fileID: 21300000, guid: 08133af51a3719745942cd54caa77248, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 03113434778465d4d88486eecc9d9be4, type: 3}

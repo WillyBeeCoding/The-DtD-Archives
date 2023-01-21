@@ -20,6 +20,8 @@ MonoBehaviour:
     fight in the Mirage Arena. It's got poor reach and a low critical ratio, but
     has an extra strength boost.
   image: {fileID: 21300000, guid: f61d1404c5755ee4e9e9265bc19495ad, type: 3}
+  stats: {fileID: 21300000, guid: 2987d46427ec5f948a45a94910ce46a3, type: 3}
   strengh: +5
   magic: +2
+  critrate: 
   footage: {fileID: 0}

@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 182
   keybladeName: Master's Defender
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Sorry, but you''ve seen me too weak, too often. Now it''s my turn
+    to shine." - Aqua'
+  desc: Left behind on Destiny Islands, Sora finds this ancient keyblade washed ashore
+    and uses it to find a path to its current wielder, Aqua.
   image: {fileID: 21300000, guid: 1e54b6c45dad9d44f8183ca917025731, type: 3}
+  stats: {fileID: 21300000, guid: f0ef7be3d9cf59e4484eaf3216631da8, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

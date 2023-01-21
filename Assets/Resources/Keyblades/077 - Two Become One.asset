@@ -20,6 +20,8 @@ MonoBehaviour:
     Gear is 30000 Heart Points in the shop at Legend Rank. This blade requires two
     ability units attached.
   image: {fileID: 21300000, guid: 3385114bee110e74c86f1a7911c949d2, type: 3}
+  stats: {fileID: 21300000, guid: af0cd41a127197c49a57db2938f21f9f, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: 0b77b6c7916874a41b5a2f2351779c62, type: 3}

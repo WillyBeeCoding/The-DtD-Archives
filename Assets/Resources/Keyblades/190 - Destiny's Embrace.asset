@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 190
   keybladeName: Destiny's Embrace
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I want to be a part of your life no matter what. That''s all." - Kairi'
+  desc: Kairi continues using this weapon under Merlin's training, becoming a decent
+    keyblade wielder alongside Lea in the fight against the Real Organization XIII.
   image: {fileID: 21300000, guid: 3f156e5d2094ddd49a9937184e8e8542, type: 3}
+  stats: {fileID: 21300000, guid: 7131c227e009fef4899633771304b4c7, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

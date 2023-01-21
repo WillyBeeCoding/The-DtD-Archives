@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after clearing Castle of Dreams. It's a blade that
     makes it easier to land critical hits.
   image: {fileID: 21300000, guid: 5f0d21dd0a973984b971bc8673dc08cd, type: 3}
+  stats: {fileID: 21300000, guid: 021f40fe54f2e8045af62dc9a43bf958, type: 3}
   strengh: +2
   magic: +2
+  critrate: 
   footage: {fileID: 0}

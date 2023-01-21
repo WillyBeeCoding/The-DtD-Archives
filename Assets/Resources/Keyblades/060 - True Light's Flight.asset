@@ -20,6 +20,8 @@ MonoBehaviour:
     Novice Rank. WG+ is 40 Challenge Sigils in the shop. It has a wide reach and
     deals heavy damage.
   image: {fileID: 21300000, guid: 280bf4a4d119fe245af9efbf052153d3, type: 3}
+  stats: {fileID: 21300000, guid: 08e07028e7ebe1a4bbaf01af089c62c0, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: bc24351d2936b104dab8abcf5be58cba, type: 3}

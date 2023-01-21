@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 124
   keybladeName: Skull Noise
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Looks like you''re not a player." - Neku'
+  desc: This keyblade is obtained after defeating the Hockomonkey Nightmare found
+    in Traverse Town and unlocking the town's first sleeping keyhole within. It provides
+    a more balanced boost in Strength and Magic.
   image: {fileID: 21300000, guid: c4b7dad767f452444ae2b994af2f690b, type: 3}
+  stats: {fileID: 21300000, guid: 357dca43794f1a94dada74e70c1ff631, type: 3}
   strengh: +7
   magic: +7
+  critrate: 
   footage: {fileID: 0}

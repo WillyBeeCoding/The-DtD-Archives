@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 140
   keybladeName: Invi's Keyblade
   keybladeGame: KHX
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"So, to sum it up, I''ll need you to observe the others. Easy breezy."
+    - Master of Masters'
+  desc: 'The ancient keyblade belonging to Foreteller Invi: Leader of the Anguis
+    Union and apprentice to the mysterious Master of Masters.'
   image: {fileID: 21300000, guid: 1bf4c4f22cffb3d40bbd0a8b2f5ea027, type: 3}
+  stats: {fileID: 21300000, guid: 23ee875361a36ed41b8effd77a75c1f6, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

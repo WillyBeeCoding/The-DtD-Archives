@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: The blade of Master Eraqus, passed down from a long line of honorable keyblade
     masters. After his defeat by the hands of Terra, it is bequeathed to Aqua.
   image: {fileID: 21300000, guid: dd989bd70c8e2714e9a5bbc89d34d706, type: 3}
+  stats: {fileID: 21300000, guid: 079700ad005032144b8e7eb4a45b383e, type: 3}
   strengh: +7
   magic: +7
+  critrate: 
   footage: {fileID: 0}

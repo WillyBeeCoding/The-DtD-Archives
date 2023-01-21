@@ -20,6 +20,8 @@ MonoBehaviour:
     Shop. CG+ is made through further synthesis. It provides versatility by boosting
     strength and magic.
   image: {fileID: 21300000, guid: 40e3ad1e9e85ec4489eebb4c052b81db, type: 3}
+  stats: {fileID: 21300000, guid: abd2625f9d4abb04cbda15d2d8c56052, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 32900000, guid: b91581905b9060e4987c748bbdcf3250, type: 3}

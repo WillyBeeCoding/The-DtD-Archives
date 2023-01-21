@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: The blade wielded by a younger King Mickey, who ran off from his training
     to try and stop the Unversed from seeping into the worlds of light.
   image: {fileID: 21300000, guid: 1d37a13e72746f04d8510754fe6dd9cd, type: 3}
+  stats: {fileID: 21300000, guid: 3cfa880e1dd32a64c8456d2309a7b532, type: 3}
   strengh: N/A
   magic: N/A
+  critrate: 
   footage: {fileID: 0}

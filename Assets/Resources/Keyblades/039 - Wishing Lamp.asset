@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your second visit to Agrabah after taking
     down Genie Jafar and saving Agrabah once again from his antics.
   image: {fileID: 21300000, guid: ffaf6848fd996274f92e9d1e39ac3eb7, type: 3}
+  stats: {fileID: 21300000, guid: 5ebbca3c600a18a46bf96363089dcd9c, type: 3}
   strengh: +4
   magic: +3
+  critrate: 
   footage: {fileID: 32900000, guid: 64cdddacd24e0a84c8e9597cf8db7b94, type: 3}

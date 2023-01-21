@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 115
   keybladeName: Metal Chocobo
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Just remember to tell him the things that you''ve seen, and that you''ve
+    felt." - Data-Namine'
+  desc: This familiarly steely keyblade can be obtained from a Rare Prize Blox in
+    Layer 27 of the digitized keyhole maze in Olympus Coliseum.
   image: {fileID: 21300000, guid: ea7f914b5d2263449baf4af9ba4e1f60, type: 3}
+  stats: {fileID: 21300000, guid: a7a184df8f7f5264689155718b65ecca, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

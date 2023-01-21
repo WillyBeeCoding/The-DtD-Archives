@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 128
   keybladeName: Ocean Rage
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Pinocchio''s gonna need his conscience." - Jiminy'
+  desc: This keyblade is obtained after clearing Prankster's Paradise as Riku and
+    unlocking the sleeping keyhole within. It has a low Critical rate, but gives
+    a high Magic boost and Reality Shift rate.
   image: {fileID: 21300000, guid: 9bb2592ced8dec649a2e47aaac0502b7, type: 3}
+  stats: {fileID: 21300000, guid: b485dbabb7881ad4ba4fe5e101013e36, type: 3}
   strengh: +8
   magic: +10
+  critrate: 
   footage: {fileID: 0}

@@ -20,6 +20,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained after clearing Enchanted Dominion. It's a blade
     that provides a balanced boost in Strength and Magic.
   image: {fileID: 21300000, guid: 5d9ad40534197824489625bc39b44d21, type: 3}
+  stats: {fileID: 21300000, guid: 57b81aad95cad9042be73947fee0eed6, type: 3}
   strengh: +2
   magic: +3
+  critrate: 
   footage: {fileID: 0}

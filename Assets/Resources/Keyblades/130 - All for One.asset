@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 130
   keybladeName: All for One
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"All for one, and one for all!" - The Royal Musketeers'
+  desc: This keyblade is obtained after clearing Country of the Musketeers and unlocking
+    the sleeping keyhole within. It has a low Reality Shift rate, but gives a very
+    high Strength boost and high Critical rate.
   image: {fileID: 21300000, guid: 7e56cefd722ee1f49b7a56e8ee9b6230, type: 3}
+  stats: {fileID: 21300000, guid: ca6a4562e20a5834da791d438da0f858, type: 3}
   strengh: +10
   magic: +12
+  critrate: 
   footage: {fileID: 0}

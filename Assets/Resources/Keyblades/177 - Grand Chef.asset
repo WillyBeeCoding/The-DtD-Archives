@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 177
   keybladeName: Grand Chef
   keybladeGame: KH3
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"Those ingredients of yours must really have got Little Chef''s gears
+    a-turnin''." - Scrooge McDuck'
+  desc: This keyblade is obtained after getting Le Grand Bistrot in Twilight Town
+    to five stars. It has a great emphasis on Magic.
   image: {fileID: 21300000, guid: 673b1d834f715b94bb54666f890bcbd5, type: 3}
+  stats: {fileID: 21300000, guid: 85711af2522c8bd4aa42432dfab2b7f8, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

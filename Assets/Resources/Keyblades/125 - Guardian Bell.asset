@@ -15,9 +15,12 @@ MonoBehaviour:
   keybladeID: 125
   keybladeName: Guardian Bell
   keybladeGame: KHDDD
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"I''m ready to really see what''s out there."-Quasimodo'
+  desc: This keyblade is obtained after clearing La Cite des Cloches and unlocking
+    the sleeping keyhole within. It has a long reach with a high boost in Magic.
   image: {fileID: 21300000, guid: 5137a7f396d13d34a821bf92b48548c8, type: 3}
+  stats: {fileID: 21300000, guid: 689f200ac93593145b3ad8b483a7c560, type: 3}
   strengh: +7
   magic: +10
+  critrate: 
   footage: {fileID: 0}

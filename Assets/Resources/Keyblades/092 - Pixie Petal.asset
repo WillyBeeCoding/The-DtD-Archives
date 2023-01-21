@@ -21,6 +21,8 @@ MonoBehaviour:
     but gives an extra magic boost, more chances at critical hits, and higher on
     those crits.
   image: {fileID: 21300000, guid: dfbacbaa67762174d8c316414ed1985e, type: 3}
+  stats: {fileID: 21300000, guid: 445ed5346ecdecb48a1f41a274e714a2, type: 3}
   strengh: +3
   magic: +6
+  critrate: 
   footage: {fileID: 0}

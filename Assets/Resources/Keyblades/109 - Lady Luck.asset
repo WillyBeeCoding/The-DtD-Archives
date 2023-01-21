@@ -15,9 +15,13 @@ MonoBehaviour:
   keybladeID: 109
   keybladeName: Lady Luck
   keybladeGame: KHCoded
-  gameQuote: TBD
-  desc: TBD
+  gameQuote: '"''Undo the hurt to unbar the way.'' Other worlds in the journal must
+    still need our help." - King Mickey'
+  desc: This familiarly whimsical keyblade is obtained after defeating the Trickmaster
+    through the digitized keyhole in Wonderland.
   image: {fileID: 21300000, guid: 667f34fa985f4ef46bcabd1c1ac22df8, type: 3}
+  stats: {fileID: 21300000, guid: 1a6232074aa6ce04784837aaba2ad20a, type: 3}
   strengh: 
   magic: 
+  critrate: 
   footage: {fileID: 0}

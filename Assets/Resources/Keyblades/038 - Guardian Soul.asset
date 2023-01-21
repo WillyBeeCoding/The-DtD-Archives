@@ -19,6 +19,8 @@ MonoBehaviour:
   desc: This Keyblade is obtained during your second visit to Olympus Coliseum after
     you defeat Hades and help save Meg from the Underworld.
   image: {fileID: 21300000, guid: bf3b00f52ad354c4b9d3c833563ae152, type: 3}
+  stats: {fileID: 21300000, guid: bdb5c9be9d2211842b199d27bef14f7d, type: 3}
   strengh: +5
   magic: +1
+  critrate: 
   footage: {fileID: 32900000, guid: 2f215329de97a5f49821702826bd193b, type: 3}
