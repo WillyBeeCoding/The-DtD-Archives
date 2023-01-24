@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UnityEngine.Video;
 using TMPro;
+using UnityEngine.InputSystem;
 
 public class KHSelectionList : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
@@ -14,10 +15,15 @@ public class KHSelectionList : MonoBehaviour, IPointerEnterHandler, IPointerExit
     private int gameIndex;
     private bool hoverOn;
     private bool switchingLists;
-    private Scrollbar scrollbar; 
+    private Scrollbar scrollbar;
     private ScrollRect scrollrect;
+    private InputAction navAction;
+    private InputAction clickAction;
+    private InputAction backAction;
+    private InputAction scrollAction;
 
     // Public objects/scripts in hierarchy 
+    public PlayerInput playerInput;
     public List<GameObject> itemsList;
     public List<RectTransform> thingsToColorShift;
     public GameObject listContentObj;
