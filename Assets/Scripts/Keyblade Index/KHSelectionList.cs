@@ -79,22 +79,28 @@ public class KHSelectionList : MonoBehaviour, IPointerEnterHandler, IPointerExit
     public void OnPointerEnter(PointerEventData eventData) { hoverOn = true; }
     public void OnPointerExit(PointerEventData eventData) { hoverOn = false; }
 
+    /// <summary>
+    /// This method is used to shift to a new game index that's next to the current game (L/R keys or arrow buttons)
+    /// </summary>
     public void shift(int direction) {
-        if ((gameIndex > 0 && direction == -1) || 
-            (gameIndex < allGames.Count-1 && direction == 1)) {
-            gameIndex += direction;
-            refreshList(allGames[gameIndex], MasterDatabase.GetCurrentKeyblade().keybladeName);
-            iconList.Shift(gameIndex);
-            changeColor(gameIndex);
-            StartCoroutine(listSlideAnim());
+        if ((gameIndex > 0 && direction == -1) // You're not at index 0, and want to shift left
+            || (gameIndex < allGames.Count-1 && direction == 1)) { // You're not at the last index, and want to shift right
+            gameIndex += direction; // Moves to next game index
+            refreshList(allGames[gameIndex], MasterDatabase.GetCurrentKeyblade().keybladeName); // Refreshes the list of keyblades
+            iconList.Shift(gameIndex); // Highlights the proper game icon
+            changeColor(gameIndex); // Changes the hue of screen to match the new game
+            StartCoroutine(listSlideAnim()); // Starts animation to visually swap out the list
         } else {
-            audioSource.PlayOneShot(audioClips[3], 0.25f); 
+            audioSource.PlayOneShot(audioClips[3], 0.25f); // Plays a 'disabled' sound
         }
     }
 
+    /// <summary>
+    /// This method is used to jump to a new game index from anywhere (clicking on the heart icons directly)
+    /// </summary>
     public void jumpTo(int index) {
-        if (gameIndex == index) {
-            audioSource.PlayOneShot(audioClips[3], 0.25f);
+        if (gameIndex == index) { // Already at the game index you picked
+            audioSource.PlayOneShot(audioClips[3], 0.25f); // Plays a 'disabled' sound
         } else {
             gameIndex = index;
             refreshList(allGames[gameIndex], MasterDatabase.GetCurrentKeyblade().keybladeName);
